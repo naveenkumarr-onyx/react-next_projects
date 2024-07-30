@@ -11,7 +11,6 @@ function LoginComponent() {
 
   function onHandleSubmit(event: any) {
     event.preventDefault();
-    console.log(loginFormData, "loginFormData");
   }
 
   return (

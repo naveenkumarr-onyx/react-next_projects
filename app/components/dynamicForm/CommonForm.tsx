@@ -42,7 +42,6 @@ const CommonForm = ({
     }
     return content;
   }
-  console.log(formControls);
 
   return (
     <form onSubmit={onHandleSubmit}>

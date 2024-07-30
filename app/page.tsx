@@ -4,9 +4,6 @@ import Form from "./components/Form";
 import Quotes from "./components/Quotes/Quotes";
 
 export default function Home() {
-  if (typeof global !== "undefined") {
-    console.log("Server-Side");
-  }
   return (
     <main>
       <div>
