@@ -1,6 +1,7 @@
+"use client";
 import React, { useEffect, useState } from "react";
 
-const useFetch = ({ url, option = {} }: any) => {
+const useFetch = (url: any, option = {}) => {
   const [data, setData] = useState(null);
   const [error, setError] = useState(null);
   const [loading, setLoading] = useState(false);
