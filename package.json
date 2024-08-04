@@ -9,7 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@naveenonyx/jsinstaller": "^1.0.2",
     "@tanstack/react-query": "^5.51.16",
+    "express": "^4.19.2",
     "next": "14.2.5",
     "react": "^18",
     "react-dom": "^18"
