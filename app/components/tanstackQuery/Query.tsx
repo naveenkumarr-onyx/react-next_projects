@@ -2,7 +2,6 @@
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
 import React, { useState } from "react";
 import { fetchProductList, newProductList } from "./Index";
-import { greet } from "@naveenonyx/jsinstaller";
 
 interface Product {
   id: number;
@@ -10,7 +9,6 @@ interface Product {
 }
 
 const ReactQuery = () => {
-  console.log(greet("naveen"));
   const [inputValue, setInputValue] = useState("");
 
   const getQueryClient: any = useQueryClient();
