@@ -1,0 +1,876 @@
+[
+  {
+    "topicId": "e2e60e40-6dfd-488c-b9ae-548a2876691c",
+    "answer": [3],
+    "isFlagged": true,
+    "type": "SINGLE",
+    "questionTranslations": [
+      {
+        "questionField": "<p>gpd;tUtdtw;Ws; vJ> ‘mgpah];” Fwpj;j rpwe;j tpsf;fk;?</p>",
+        "language": "TAMIL"
+      }
+    ],
+    "choiceTranslationList": [
+      [
+        {
+          "choiceField": "xU nraw;if Nfhs",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "mLj;j jiyKiw kiwe;jpUe;J jhf;Fk; tpkhdk",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "thd; ,yf;Ffis mjpNtfkhf jhf;ff;$baJ",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "fpufq;fis fz;lwptjw;fhd xU Nghf;Ftuj;J Kiw",
+          "language": "TAMIL"
+        }
+      ]
+    ]
+  },
+  {
+    "topicId": "e2e60e40-6dfd-488c-b9ae-548a2876691c",
+    "answer": [3],
+    "isFlagged": true,
+    "type": "SINGLE",
+    "questionTranslations": [
+      {
+        "questionField": "<p>SAMARTH jpl;lj;jpd; Kjd;ik Nehf;fk;?</p>",
+        "language": "TAMIL"
+      }
+    ],
+    "choiceTranslationList": [
+      [
+        {
+          "choiceField": "ngz;fSf;F tphpthd kUj;Jtj;ij toq;Fjy",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "coth;fSf;F cjTjy;",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "fpuhkg;Gw khzth;fspd; cah;fy;tpf;F cjTjy",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "MSME fSf;F cjTjy",
+          "language": "TAMIL"
+        }
+      ]
+    ]
+  },
+  {
+    "topicId": "e2e60e40-6dfd-488c-b9ae-548a2876691c",
+    "answer": [3],
+    "isFlagged": true,
+    "type": "SINGLE",
+    "questionTranslations": [
+      {
+        "questionField": "<p>SAMARTH jpl;lj;jpd; Kjd;ik Nehf;fk;?2024 Njrpa fUg;G HIV/AIDS tpopg;Gzh;T ehSf;fhd fUg;nghUs</p>",
+        "language": "TAMIL"
+      }
+    ],
+    "choiceTranslationList": [
+      [
+        {
+          "choiceField": "Strenghthening Health care Infrastructure for Public Welfare.",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "Engage, Educate, Empower, Uniting to End HIV/AIDS in Black communities.",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "‘Let Communities Lead”",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "‘Equalize”",
+          "language": "TAMIL"
+        }
+      ]
+    ]
+  },
+  {
+    "topicId": "e2e60e40-6dfd-488c-b9ae-548a2876691c",
+    "answer": [3],
+    "isFlagged": true,
+    "type": "SINGLE",
+    "questionTranslations": [
+      {
+        "questionField": "<p>2024 Njrpa fUg;G HIV/AIDS tpopg;Gzh;T ehSf;fhd fUg;nghUs</p>",
+        "language": "TAMIL"
+      }
+    ],
+    "choiceTranslationList": [
+      [
+        {
+          "choiceField": "Strenghthening Health care Infrastructure for Public Welfare.",
+          "language": "ENGLISH"
+        }
+      ],
+      [
+        {
+          "choiceField": "Engage, Educate, Empower, Uniting to End HIV/AIDS in Black communities.",
+          "language": "ENGLISH"
+        }
+      ],
+      [
+        {
+          "choiceField": "‘Let Communities Lead”",
+          "language": "ENGLISH"
+        }
+      ],
+      [
+        {
+          "choiceField": "‘Equalize”",
+          "language": "ENGLISH"
+        }
+      ]
+    ]
+  },
+  {
+    "topicId": "e2e60e40-6dfd-488c-b9ae-548a2876691c",
+    "answer": [3],
+    "isFlagged": true,
+    "type": "SINGLE",
+    "questionTranslations": [
+      {
+        "questionField": "<p>ke;jpf;fha;r;ry; vd miof;fg;gLk; fpahrD}h; td Neha; gutp tUfpw khepyk; vJ?</p>",
+        "language": "TAMIL"
+      }
+    ],
+    "choiceTranslationList": [
+      [
+        {
+          "choiceField": "cj;jpug;gpuNjrk",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "Nfush",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "Me;jpug;gpuNjrk",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "fh;ehlfh",
+          "language": "TAMIL"
+        }
+      ]
+    ]
+  },
+  {
+    "topicId": "e2e60e40-6dfd-488c-b9ae-548a2876691c",
+    "answer": [3],
+    "isFlagged": true,
+    "type": "SINGLE",
+    "questionTranslations": [
+      {
+        "questionField": "<p>tpj;ahQ;ryp cjtpj;njhif jpl;lj;Jld; njhlh;Gila $w;Wfspy; vJ cz;ik? </br>1. ,e;jpa murpd; fy;tp mikr;rfj;jhy; 2022 nrg;lk;ghpy; tpj;ahQ;ryp jpl;lk; mwpKfk; </br> 2. fy;tpia njhlu epjptrjp ,y;yhj khzth;fSf;F Mjutspg;gJ </br> 3. r%fk; (k) jdpahh; Jiwapd; cjtpiag; ngw;W muRg;gs;spfspy; fy;tpapd; juj;ij cah;j;JtJ</p>",
+        "language": "TAMIL"
+      }
+    ],
+    "choiceTranslationList": [
+      [
+        {
+          "choiceField": "1> 3 kl;Lk; rhp",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "> 2 kl;Lk; rh",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "2> 3 kl;Lk; rhp",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "midj;Jk; rhp",
+          "language": "TAMIL"
+        }
+      ]
+    ]
+  },
+  {
+    "topicId": "e2e60e40-6dfd-488c-b9ae-548a2876691c",
+    "answer": [3],
+    "isFlagged": true,
+    "type": "SINGLE",
+    "questionTranslations": [
+      {
+        "questionField": "<p> gpd;tUk; $w;Wfspy; vJ cz;ik? </br> 1. Njrpa Flw;GO ePf;f ehs; Mz;LNjhWk; khh;r; (k) [Piy khjq;fspy; filg;gpbf;fg;gLfpwJ </br 2. ehL KOtJk; 19 taJf;Fl;gl;l rpwhh;> 30 taJf;Fl;gl;l tshpsk; ngz;fSf;F ‘my;ngz;lNrhy;” Flw;GO ePf;f khj;jpiufs; toq;fg;gLtJ tof;fk;</p>",
+        "language": "TAMIL"
+      }
+    ],
+    "choiceTranslationList": [
+      [
+        {
+          "choiceField": "1 kl;Lk; rhp",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "2 kl;Lk; rhp",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "1> 2 rhp",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "1> 2 jtW",
+          "language": "TAMIL"
+        }
+      ]
+    ]
+  },
+  {
+    "topicId": "e2e60e40-6dfd-488c-b9ae-548a2876691c",
+    "answer": [3],
+    "isFlagged": true,
+    "type": "SINGLE",
+    "questionTranslations": [
+      {
+        "questionField": "<p> ICC nl];l; ngsypq; juthpirapy; Kjyplk; ngw;w Kjy; ,e;jpa Ntfg;ge;J tPr;rhsh; vd;w rpwg;igg; ngw;wth</p>",
+        "language": "TAMIL"
+      }
+    ],
+    "choiceTranslationList": [
+      [
+        {
+          "choiceField": "KfkJ rkp",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "[hfPh; fhd",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "fgpy;Njt",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "Gk;uh",
+          "language": "TAMIL"
+        }
+      ]
+    ]
+  },
+  {
+    "topicId": "e2e60e40-6dfd-488c-b9ae-548a2876691c",
+    "answer": [3],
+    "isFlagged": true,
+    "type": "SINGLE",
+    "questionTranslations": [
+      {
+        "questionField": "<p> kpd;dZ fopT Nkyhz;ikf;fhd rpwg;G ikak; njhlq;fg;gl;l ,lk; vJ?</p>",
+        "language": "TAMIL"
+      }
+    ],
+    "choiceTranslationList": [
+      [
+        {
+          "choiceField": "C-MET, nfhy;fj;jh",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "C-MET, Kk;ig",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "C-MET, GNd",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "C-MET, i`juhghj",
+          "language": "TAMIL"
+        }
+      ]
+    ]
+  },
+  {
+    "topicId": "e2e60e40-6dfd-488c-b9ae-548a2876691c",
+    "answer": [3],
+    "isFlagged": true,
+    "type": "SINGLE",
+    "questionTranslations": [
+      {
+        "questionField": "<p> nghJ rptpy; rl;lk; njhlh;ghd $w;Wfspy; vJ cz;ikay;y? </br> 1. ehl;bd; Kjy; khepykhf cj;jpug;gpuNjrk; khepyj;jpy; epiwNtw;wk; </br> 2. UCC tiuit cUthf;f Xa;Tngw;w ePjpgjp ,uQ;rdh Njrah; jiyikapy; 3 Ngh; nfhz;l FO mikf;fg;gl;lJ </br> 3. goq;Fbapdh; r%fj;jpdUf;Fk; klLk; tpyf;fspf;fg;gl;Ls;sJ </br> 4. Nfhth khepyj;jpy; kl;LNk UCC Nghh;j;Jf;fPrpah; Ml;rpf;fhyj;jpy; ,Ue;J eilKiwapy; cs;sJ.</p>",
+        "language": "TAMIL"
+      }
+    ],
+    "choiceTranslationList": [
+      [
+        {
+          "choiceField": "1 kl;Lk;",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "2 kl;Lk",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "1> 2 kl;Lk;",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "1> 3 kl;Lk;",
+          "language": "TAMIL"
+        }
+      ]
+    ]
+  },
+  {
+    "topicId": "e2e60e40-6dfd-488c-b9ae-548a2876691c",
+    "answer": [3],
+    "isFlagged": true,
+    "type": "SINGLE",
+    "questionTranslations": [
+      {
+        "questionField": "<p> 2024-cyf <uepyq;fs; ehSf;fhdf; fUg;nghUs; vd;d?</p>",
+        "language": "TAMIL"
+      }
+    ],
+    "choiceTranslationList": [
+      [
+        {
+          "choiceField": "Wetlands and Climate Change",
+          "language": "ENGLISH"
+        }
+      ],
+      [
+        {
+          "choiceField": "Wetlands and Human Wellbeing",
+          "language": "ENGLISH"
+        }
+      ],
+      [
+        {
+          "choiceField": "Wetlands and Water",
+          "language": "ENGLISH"
+        }
+      ],
+      [
+        {
+          "choiceField": "Wetlands for a Sustainable Urban Future ",
+          "language": "ENGLISH"
+        }
+      ]
+    ]
+  },
+  {
+    "topicId": "e2e60e40-6dfd-488c-b9ae-548a2876691c",
+    "answer": [3],
+    "isFlagged": true,
+    "type": "SINGLE",
+    "questionTranslations": [
+      {
+        "questionField": "<p> 2024-2025 epjpahz;Lf;fhd gl;n[l;by; kjpg;gplg;gl;l nkhj;j nryT vt;tsT?</p>",
+        "language": "TAMIL"
+      }
+    ],
+    "choiceTranslationList": [
+      [
+        {
+          "choiceField": "49.16 ,yl;rk; Nfhb",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "46.15 ,yl;rk; Nfhb",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "47.66 ,yl;rk; Nfhb",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "45.15 ,yl;rk; Nfhb",
+          "language": "TAMIL"
+        }
+      ]
+    ]
+  },
+  {
+    "topicId": "e2e60e40-6dfd-488c-b9ae-548a2876691c",
+    "answer": [3],
+    "isFlagged": true,
+    "type": "SINGLE",
+    "questionTranslations": [
+      {
+        "questionField": "<p> ‘thA rf;jp - 24” gapw;rp eilngWk; ,lk; vJ?</p>",
+        "language": "TAMIL"
+      }
+    ],
+    "choiceTranslationList": [
+      [
+        {
+          "choiceField": "m[;kPh",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "nghf;uhd",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "N[hj;G+h",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "cja;G+h",
+          "language": "TAMIL"
+        }
+      ]
+    ]
+  },
+  {
+    "topicId": "e2e60e40-6dfd-488c-b9ae-548a2876691c",
+    "answer": [3],
+    "isFlagged": true,
+    "type": "SINGLE",
+    "questionTranslations": [
+      {
+        "questionField": "<p>mz;ikapy;> jpUeq;iffSf;F ,ytr NgUe;J gazj;ij mwptpj;j efuk; vJ?</p>",
+        "language": "TAMIL"
+      }
+    ],
+    "choiceTranslationList": [
+      [
+        {
+          "choiceField": "Kk;ig",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "nfhy;fj;jh",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": ",e;J}h",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "nly;yp",
+          "language": "TAMIL"
+        }
+      ]
+    ]
+  },
+  {
+    "topicId": "e2e60e40-6dfd-488c-b9ae-548a2876691c",
+    "answer": [3],
+    "isFlagged": true,
+    "type": "SINGLE",
+    "questionTranslations": [
+      {
+        "questionField": "<p>jkpo;ehL Mjpjpuhtplh; tPl;Ltrjp kw;Wk; Nkk;ghl;Lf; fofk; (jhl;Nfh) njhlq;fg;gl;l Mz;L?</p>",
+        "language": "TAMIL"
+      }
+    ],
+    "choiceTranslationList": [
+      [
+        {
+          "choiceField": "1971",
+          "language": "ENGLISH"
+        }
+      ],
+      [
+        {
+          "choiceField": "1973",
+          "language": "ENGLISH"
+        }
+      ],
+      [
+        {
+          "choiceField": "1974",
+          "language": "ENGLISH"
+        }
+      ],
+      [
+        {
+          "choiceField": "1976",
+          "language": "ENGLISH"
+        }
+      ]
+    ]
+  },
+  {
+    "topicId": "e2e60e40-6dfd-488c-b9ae-548a2876691c",
+    "answer": [3],
+    "isFlagged": true,
+    "type": "SINGLE",
+    "questionTranslations": [
+      {
+        "questionField": "<p>gpd;tUk; $w;Wfspy; vJ cz;ik? </br> 1. jkpo;nkhopapy; rpwe;j E}y;fs; ntsptUtij Cf;fg;gLj;Jk; tifapy; 33 tifg;ghLfspy; rpwe;j gilg;G mspj;j E}yhrphpah;fSf;Fk; gjpg;ghsh;fSf;Fk; Mz;LNjhWk; ghpR toq;fg;gLfpwJ. </br> 2. 1972 Kjy; jkpo; tsh;r;rpj;Jiwahy; toq;fg;gl;L tUfpwJ.   </p>",
+        "language": "TAMIL"
+      }
+    ],
+    "choiceTranslationList": [
+      [
+        {
+          "choiceField": "1 kl;Lk; rhp",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "2 kl;Lk; rh",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "1> 2 rhp",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "1> 2 jtW",
+          "language": "TAMIL"
+        }
+      ]
+    ]
+  },
+  {
+    "topicId": "e2e60e40-6dfd-488c-b9ae-548a2876691c",
+    "answer": [3],
+    "isFlagged": true,
+    "type": "SINGLE",
+    "questionTranslations": [
+      {
+        "questionField": "<p>‘cyf Adhdp ehs;” mDrhpf;fg;gLfpw Njjp vJ?</p>",
+        "language": "TAMIL"
+      }
+    ],
+    "choiceTranslationList": [
+      [
+        {
+          "choiceField": "gpg;uthp -9",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "gpg;uthp -10",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "gpg;uthp 12",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "gpg;uthp 11",
+          "language": "TAMIL"
+        }
+      ]
+    ]
+  },
+  {
+    "topicId": "e2e60e40-6dfd-488c-b9ae-548a2876691c",
+    "answer": [3],
+    "isFlagged": true,
+    "type": "SINGLE",
+    "questionTranslations": [
+      {
+        "questionField": "<p>. 2024 - ICC U19 cyff;Nfhg;igia ntd;w ehL vJ?</p>",
+        "language": "TAMIL"
+      }
+    ],
+    "choiceTranslationList": [
+      [
+        {
+          "choiceField": "M];jpNuypah",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": ",q;fpyhe;J",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": ",e;jpah",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "njd;dhg;gphpf;fh",
+          "language": "TAMIL"
+        }
+      ]
+    ]
+  },
+  {
+    "topicId": "e2e60e40-6dfd-488c-b9ae-548a2876691c",
+    "answer": [3],
+    "isFlagged": true,
+    "type": "SINGLE",
+    "questionTranslations": [
+      {
+        "questionField": "<p>‘Jy;ypa mZFKiw Nulhh;” (Precision Approach Rader - PAR) vd;w Gjpa ghJfhg;G mikg;G vq;F mwpKfg;gLj;jg;gl;lJ</p>",
+        "language": "TAMIL"
+      }
+    ],
+    "choiceTranslationList": [
+      [
+        {
+          "choiceField": ",yl;rj;jPTfs",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "me;jkhd; & epf;Nfhgh; jPTfs",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "Nfush",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "GJnly;yp",
+          "language": "TAMIL"
+        }
+      ]
+    ]
+  },
+  {
+    "topicId": "e2e60e40-6dfd-488c-b9ae-548a2876691c",
+    "answer": [3],
+    "isFlagged": true,
+    "type": "SINGLE",
+    "questionTranslations": [
+      {
+        "questionField": "<p>epzePh; ahidf;fhy; Neha; gw;wpa $w;Wfspy; vJ cz;ik? </br> 1. kj;jpa Rfhjhuk; (k) FLk;g eyj;Jiwahy; epzePh; ahidf;fhy; Nehia xopg;gjw;F ‘kf;fs; gq;Nfw;Gld; $ba kUe;J eph;thf ,af;fj;jpd; Kjy; fl;lk; njhlf;fk;. </br> 2. 2028f;Fs; Nehia xopf;f 5 mk;r cj;jpia kj;jpa Rfhjhu mikr;rk; njhlf;fk; </br> 3. ghjpf;fg;gl;l gFjpapy; trpg;gth;fSf;F ,ytr jLg;G kUe;J tOq;Ftjd; %yk; Neha; guTtijj; jLg;gJ.</p>",
+        "language": "TAMIL"
+      }
+    ],
+    "choiceTranslationList": [
+      [
+        {
+          "choiceField": "1 kl;Lk; rh",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "1> 2 rhp",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "1> 3 rh",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "1> 2> 3 rhp",
+          "language": "TAMIL"
+        }
+      ]
+    ]
+  },
+  {
+    "topicId": "e2e60e40-6dfd-488c-b9ae-548a2876691c",
+    "answer": [3],
+    "isFlagged": true,
+    "type": "SINGLE",
+    "questionTranslations": [
+      {
+        "questionField": "<p>TNPSC elj;jpa chpikapay; ePjpgjp gjtpf;fhd Njh;tpy; Njh;r;rp ngw;w Kjy; goq;Fbapdg; ngz; ve;j khtl;lj;ijr; rhh;e;jth</p>",
+        "language": "TAMIL"
+      }
+    ],
+    "choiceTranslationList": [
+      [
+        {
+          "choiceField": "fd;dpahFkhp",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "nrd;id",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "tpUJefh",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "jpUtz;zhkiy",
+          "language": "TAMIL"
+        }
+      ]
+    ]
+  },
+  {
+    "topicId": "e2e60e40-6dfd-488c-b9ae-548a2876691c",
+    "answer": [3],
+    "isFlagged": true,
+    "type": "SINGLE",
+    "questionTranslations": [
+      {
+        "questionField": "<p>gpujkhpd; #hpa tPL ,ytr kpd;rhu jpl;lk; gw;wpa $w;Wfspy; vJ cz;ik? </br> 1. xU Nfhb FLk;gq;fSf;F khje;NjhWk; 300 myF ,ytr kpd;rhuk </br> 2. 70000 Nfhb KjyPl;by; nray;gLj;jg;gLk </br> 3. ,j;jpl;lk; %yk; Mz;Lf;F &.15000 - &.18000 tiu FLk;gj;jpduhy; Nrkpf;f KbAk;. </p>",
+        "language": "TAMIL"
+      }
+    ],
+    "choiceTranslationList": [
+      [
+        {
+          "choiceField": "1> 2 rh",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "1> 3 rhp",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "1> 2> 3 rhp",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "1 kl;Lk; rh",
+          "language": "TAMIL"
+        }
+      ]
+    ]
+  },
+  {
+    "topicId": "e2e60e40-6dfd-488c-b9ae-548a2876691c",
+    "answer": [3],
+    "isFlagged": true,
+    "type": "SINGLE",
+    "questionTranslations": [
+      {
+        "questionField": "<p>$w;W (A) : Mz;LNjhWk; gpg;uthp 13 Njrpa ngz;fs; jpdk; nfhz;lhlg;gLfpwJ. </br>fhuzk; (R) : ngz;fspd; chpikfSf;fhf Fuy; nfhLj;jjw;fhf Kj;Jyl;Rkp nul;bapd; gpwe;jehs; Njrpa ngz;fs; ehshff; nfhz;lhlg;gLfpwJ</p>",
+        "language": "TAMIL"
+      }
+    ],
+    "choiceTranslationList": [
+      [
+        {
+          "choiceField": "$w;W A rhp> fhuzk; R jtW",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "$w;W A jtW> fhuzk; R rhp",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "$w;W A kw;Wk; fhuzk; R rhp kw;Wk; fhuzk; R $w;W A tpd; rhpahd tpsf;fk; ",
+          "language": "TAMIL"
+        }
+      ],
+      [
+        {
+          "choiceField": "$w;W A kw;Wk; fhuzk; R rhp kw;Wk; fhuzk; R $w;W A tpd; rhpahd tpsf;fky;y",
+          "language": "TAMIL"
+        }
+      ]
+    ]
+  }
+]
