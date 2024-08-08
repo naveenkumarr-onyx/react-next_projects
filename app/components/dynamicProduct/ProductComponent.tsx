@@ -1,11 +1,11 @@
 import Image from "next/image";
 import Link from "next/link";
-import React from "react";
+import React, { useContext } from "react";
+import { ProductContext } from "./ProductContext";
 
 const ProductComponent = ({ val }: any) => {
-  const getSingleProduct = (id: any) => {
-    console.log(id);
-  };
+  const context = useContext(ProductContext);
+  const { addToCart, cartItems }: any = context;
   return (
     <div className="border border-cyan-700 flex flex-col items-center justify-center p-2">
       <div className="transition-all duration-700">
@@ -29,6 +29,12 @@ const ProductComponent = ({ val }: any) => {
           className="bg-black text-white p-[10px] rounded-md">
           More Details
         </Link>
+        <button
+          className="bg-black text-white p-[10px] rounded-md disabled:opacity-65"
+          disabled={cartItems.findIndex((item: any) => item.id === val.id) > -1}
+          onClick={() => addToCart(val)}>
+          Add to Cart
+        </button>
       </div>
     </div>
   );

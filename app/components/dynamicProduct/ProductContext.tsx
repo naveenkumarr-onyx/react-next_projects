@@ -22,6 +22,7 @@ export const ProductContext: any = createContext<ProductContextType | null>(
 export const ProductProvider = ({ children }: any) => {
   const [loading, setLoading] = useState(true);
   const [listOfProducts, setListOfProducts] = useState([]);
+  const [cartItems, setCartItems]: any = useState([]);
 
   const fetchListOfProducts = async () => {
     const api = await fetch(`https://dummyjson.com/products`);
@@ -46,12 +47,75 @@ export const ProductProvider = ({ children }: any) => {
     }
   };
 
+  const addToCart = (Items: any) => {
+    var exstingItems: any = [...cartItems];
+    var findIndexOfCurrentItem = exstingItems.findIndex(
+      (cartItem: any) => cartItem.id === Items.id
+    );
+    if (findIndexOfCurrentItem === -1) {
+      console.log("product adding but not quantity increasing");
+      exstingItems.push({
+        ...Items,
+        quantity: 1,
+        totalPrice: Items.price,
+      });
+    } else {
+      console.log("product already but quantity only  increasing");
+      exstingItems[findIndexOfCurrentItem] = {
+        ...exstingItems[findIndexOfCurrentItem],
+        quantity: exstingItems[findIndexOfCurrentItem].quantity + 1,
+        totalPrice:
+          (exstingItems[findIndexOfCurrentItem].quantity + 1) *
+          exstingItems[findIndexOfCurrentItem].price,
+      };
+    }
+    setCartItems(exstingItems);
+    localStorage.setItem("cartItems", JSON.stringify(exstingItems));
+  };
+
+  const removeFromCart = (cartItemDetails: any, isFullyRemoved: boolean) => {
+    var exstingItems: any = [...cartItems];
+    const findingIndexItem = exstingItems.findIndex((cartItem: any) => {
+      return cartItem.id === cartItemDetails.id;
+    });
+
+    if (isFullyRemoved) {
+      console.log("Remove full cart of item");
+      exstingItems.splice(findingIndexItem, 1);
+    } else {
+      console.log(
+        "Not Remove full cart of item and also decreasing  the Quantity"
+      );
+      exstingItems[findingIndexItem] = {
+        ...exstingItems[findingIndexItem],
+        quantity: exstingItems[findingIndexItem].quantity - 1,
+        totalPrice:
+          (exstingItems[findingIndexItem].quantity - 1) *
+          exstingItems[findingIndexItem].price,
+      };
+    }
+    localStorage.setItem("cartItems", JSON.stringify(exstingItems));
+    setCartItems(exstingItems);
+  };
+
   useEffect(() => {
     fetchListOfProducts();
+    const storedCartItems = localStorage.getItem("cartItems");
+    if (storedCartItems) {
+      setCartItems(JSON.parse(storedCartItems));
+    }
   }, []);
   return (
     <ProductContext.Provider
-      value={{ listOfProducts, loading, setLoading, fetchSingleProduct }}>
+      value={{
+        listOfProducts,
+        loading,
+        setLoading,
+        fetchSingleProduct,
+        addToCart,
+        cartItems,
+        removeFromCart,
+      }}>
       {children}
     </ProductContext.Provider>
   );
