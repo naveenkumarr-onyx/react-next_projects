@@ -3956,6 +3956,7 @@ export default function Home() {
       answer: [0],
     },
   ];
+  console.log(data.length);
   const mapping = data.map((val: any) => {
     return val.questionTranslations.map((val1: any) => {
       return val1.questionField;
