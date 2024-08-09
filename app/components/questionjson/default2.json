@@ -6,32 +6,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>tpj;ahQ;ryp cjtpj;njhif jpl;lj;Jld; njhlh;Gila $w;Wfspy; vJ cz;ik? </br>1.,e;jpa murpd; fy;tp mikr;rfj;jhy; 2022 nrg;lk;ghpy; tpj;ahQ;ryp jpl;lk; mwpKfk; </br> 2.fy;tpia njhlu epjptrjp ,y;yhj khzth;fSf;F Mjutspg;gJ </br> 3. r%fk; (k) jdpahh; Jiwapd; cjtpiag; ngw;W muRg;gs;spfspy; fy;tpapd; juj;ij cah;j;JtJ</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">tpj;ahQ;ryp cjtpj;njhif jpl;lj;Jld; njhlh;Gila $w;Wfspy; vJ cz;ik?</span>  </br> <span style=\"font-family: TamilFont; font-weight: bold\">1.,e;jpa murpd; fy;tp mikr;rfj;jhy;</span>  <span>2022</span> <span style=\"font-family: TamilFont; font-weight: bold\">nrg;lk;ghpy; tpj;ahQ;ryp jpl;lk; mwpKfk;</span>  </br><span style=\"font-family: TamilFont; font-weight: bold\"> 2.fy;tpia njhlu epjptrjp ,y;yhj khzth;fSf;F Mjutspg;gJ</span> </br> <span style=\"font-family: TamilFont; font-weight: bold\">3. r%fk; (k) jdpahh; Jiwapd; cjtpiag; ngw;W muRg;gs;spfspy; fy;tpapd; juj;ij cah;j;JtJ</span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "1> 3 kl;Lk; rhp",
+          "choiceField": "<p><span>1> 3 </span><span style=\"font-family: TamilFont; font-weight: bold\" >kl;Lk; rhp</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "> 2 kl;Lk; rh",
+          "choiceField": "<p><span>> 2 </span><span style=\"font-family: TamilFont; font-weight: bold\" >kl;Lk; rh</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "2> 3 kl;Lk; rhp",
+          "choiceField": "<p><span>2> 3 </span><span style=\"font-family: TamilFont; font-weight: bold\" >kl;Lk; rhp</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "midj;Jk; rhp",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >midj;Jk; rhp</span></p>",
           "language": "TAMIL"
         }
       ]
@@ -44,32 +44,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p> gpd;tUk; $w;Wfspy; vJ cz;ik? </br> 1. Njrpa Flw;GO ePf;f ehs; Mz;LNjhWk; khh;r; (k) [Piy khjq;fspy; filg;gpbf;fg;gLfpwJ </br 2. ehL KOtJk; 19 taJf;Fl;gl;l rpwhh;> 30 taJf;Fl;gl;l tshpsk; ngz;fSf;F ‘my;ngz;lNrhy;” Flw;GO ePf;f khj;jpiufs; toq;fg;gLtJ tof;fk;</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">gpd;tUk; $w;Wfspy; vJ cz;ik? </span> </br> <span style=\"font-family: TamilFont; font-weight: bold\">1. Njrpa Flw;GO ePf;f ehs; Mz;LNjhWk; khh;r; (k) [Piy khjq;fspy; filg;gpbf;fg;gLfpwJ </span></br <span style=\"font-family: TamilFont; font-weight: bold\">2. ehL KOtJk; 19 taJf;Fl;gl;l rpwhh;> 30 taJf;Fl;gl;l tshpsk; ngz;fSf;F ‘my;ngz;lNrhy;” Flw;GO ePf;f khj;jpiufs; toq;fg;gLtJ tof;fk; </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "1 kl;Lk; rhp",
+          "choiceField": "<p><span>1 </span><span style=\"font-family: TamilFont; font-weight: bold\">kl;Lk; rhp</span> </p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "2 kl;Lk; rhp",
+          "choiceField": "<p><span>2 </span><span style=\"font-family: TamilFont; font-weight: bold\">kl;Lk; rhp</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "1> 2 rhp",
+          "choiceField": "<p><span>1> 2 </span><span style=\"font-family: TamilFont; font-weight: bold\">rhp</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "1> 2 jtW",
+          "choiceField": "<p><span>1> 2 </span><span style=\"font-family: TamilFont; font-weight: bold\">jtW </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -82,32 +82,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p> ICC nl];l; ngsypq; juthpirapy; Kjyplk; ngw;w Kjy; ,e;jpa Ntfg;ge;J tPr;rhsh; vd;w rpwg;igg; ngw;wth</p>",
+        "questionField": "<p><span>ICC </span><span style=\"font-family: TamilFont; font-weight: bold\">nl];l; ngsypq; juthpirapy; Kjyplk; ngw;w Kjy; ,e;jpa Ntfg;ge;J tPr;rhsh; vd;w rpwg;igg; ngw;wth </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "KfkJ rkp",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">KfkJ rkp</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "[hfPh; fhd",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">[hfPh; fhd </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "fgpy;Njt",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">fgpy;Njt  </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "Gk;uh",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">Gk;uh</span></p>",
           "language": "TAMIL"
         }
       ]
@@ -120,32 +120,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p> kpd;dZ fopT Nkyhz;ikf;fhd rpwg;G ikak; njhlq;fg;gl;l ,lk; vJ?</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">kpd;dZ fopT Nkyhz;ikf;fhd rpwg;G ikak; njhlq;fg;gl;l ,lk; vJ?</span> </p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "C-MET, nfhy;fj;jh",
+          "choiceField": "<p><span>C-MET, </span><span style=\"font-family: TamilFont; font-weight: bold\" >nfhy;fj;jh </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "C-MET, Kk;ig",
+          "choiceField": "<p><span>C-MET, </span><span style=\"font-family: TamilFont; font-weight: bold\" >Kk;ig </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "C-MET, GNd",
+          "choiceField": "<p><span>C-MET, </span><span style=\"font-family: TamilFont; font-weight: bold\" >GNd</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "C-MET, i`juhghj",
+          "choiceField": "<p><span>C-MET, </span><span style=\"font-family: TamilFont; font-weight: bold\" >i`juhghj </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -158,32 +158,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p> nghJ rptpy; rl;lk; njhlh;ghd $w;Wfspy; vJ cz;ikay;y? </br> 1. ehl;bd; Kjy; khepykhf cj;jpug;gpuNjrk; khepyj;jpy; epiwNtw;wk; </br> 2. UCC tiuit cUthf;f Xa;Tngw;w ePjpgjp ,uQ;rdh Njrah; jiyikapy; 3 Ngh; nfhz;l FO mikf;fg;gl;lJ </br> 3. goq;Fbapdh; r%fj;jpdUf;Fk; klLk; tpyf;fspf;fg;gl;Ls;sJ </br> 4. Nfhth khepyj;jpy; kl;LNk UCC Nghh;j;Jf;fPrpah; Ml;rpf;fhyj;jpy; ,Ue;J eilKiwapy; cs;sJ.</p>",
+        "questionField": "<p> <span style=\"font-family: TamilFont; font-weight: bold\">nghJ rptpy; rl;lk; njhlh;ghd $w;Wfspy; vJ cz;ikay;y?</span> </br> <span style=\"font-family: TamilFont; font-weight: bold\"> 1. ehl;bd; Kjy; khepykhf cj;jpug;gpuNjrk; khepyj;jpy; epiwNtw;wk;</span> </br> 2. <span>UCC </span> <span style=\"font-family: TamilFont; font-weight: bold\" >tiuit cUthf;f Xa;Tngw;w ePjpgjp ,uQ;rdh Njrah; jiyikapy; 3 Ngh; nfhz;l FO mikf;fg;gl;lJ </span></br><span style=\"font-family: TamilFont; font-weight: bold\" >3. goq;Fbapdh; r%fj;jpdUf;Fk; klLk; tpyf;fspf;fg;gl;Ls;sJ </span> </br> <span style=\"font-family: TamilFont; font-weight: bold\">4. Nfhth khepyj;jpy; kl;LNk </span><span>UCC </span><span style=\"font-family: TamilFont; font-weight: bold\">Nghh;j;Jf;fPrpah; Ml;rpf;fhyj;jpy; ,Ue;J eilKiwapy; cs;sJ. </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "1 kl;Lk;",
+          "choiceField": "<p><span>1 </span><span style=\"font-family: TamilFont; font-weight: bold\" >kl;Lk;</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "2 kl;Lk",
+          "choiceField": "<p><span>2 </span><span style=\"font-family: TamilFont; font-weight: bold\" >kl;Lk</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "1> 2 kl;Lk;",
+          "choiceField": "<p><span>1> 2 </span><span style=\"font-family: TamilFont; font-weight: bold\" >kl;Lk;</span></p> ",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "1> 3 kl;Lk;",
+          "choiceField": "<p><span>1> 3 </span><span style=\"font-family: TamilFont; font-weight: bold\" >kl;Lk;</span></p>",
           "language": "TAMIL"
         }
       ]
@@ -196,32 +196,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p> 2024-cyf <uepyq;fs; ehSf;fhdf; fUg;nghUs; vd;d?</p>",
+        "questionField": "<p><span>2024 </span><span style=\"font-family: TamilFont; font-weight: bold\" >-cyf <uepyq;fs; ehSf;fhdf; fUg;nghUs; vd;d?</span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "Wetlands and Climate Change",
+          "choiceField": "<p><span>Wetlands and Climate Change</span></p>",
           "language": "ENGLISH"
         }
       ],
       [
         {
-          "choiceField": "Wetlands and Human Wellbeing",
+          "choiceField": "<p><span>Wetlands and Human Wellbeing</span></p>",
           "language": "ENGLISH"
         }
       ],
       [
         {
-          "choiceField": "Wetlands and Water",
+          "choiceField": "<p><span>Wetlands and Water</span></p>",
           "language": "ENGLISH"
         }
       ],
       [
         {
-          "choiceField": "Wetlands for a Sustainable Urban Future ",
+          "choiceField": "<p><span>Wetlands for a Sustainable Urban Future </span></p>",
           "language": "ENGLISH"
         }
       ]
@@ -234,32 +234,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p> 2024-2025 epjpahz;Lf;fhd gl;n[l;by; kjpg;gplg;gl;l nkhj;j nryT vt;tsT?</p>",
+        "questionField": "<p> <span>2024-2025 </span><span style=\"font-family: TamilFont; font-weight: bold\">epjpahz;Lf;fhd gl;n[l;by; kjpg;gplg;gl;l nkhj;j nryT vt;tsT?</span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "49.16 ,yl;rk; Nfhb",
+          "choiceField": "<p><span>49.16 </span><span style=\"font-family: TamilFont; font-weight: bold\">,yl;rk; Nfhb</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "46.15 ,yl;rk; Nfhb",
+          "choiceField": "<p><span>46.15 </span><span style=\"font-family: TamilFont; font-weight: bold\">,yl;rk; Nfhb</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "47.66 ,yl;rk; Nfhb",
+          "choiceField": "<p><span>47.66 </span><span style=\"font-family: TamilFont; font-weight: bold\">,yl;rk; Nfhb</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "45.15 ,yl;rk; Nfhb",
+          "choiceField": "<p><span>45.15 </span><span style=\"font-family: TamilFont; font-weight: bold\">,yl;rk; Nfhb</span></p>",
           "language": "TAMIL"
         }
       ]
@@ -272,32 +272,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p> ‘thA rf;jp - 24” gapw;rp eilngWk; ,lk; vJ?</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" > ‘thA rf;jp - </span><span>24” </span><span style=\"font-family: TamilFont; font-weight: bold\" >gapw;rp eilngWk; ,lk; vJ?</span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "m[;kPh",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">m[;kPh </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "nghf;uhd",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">nghf;uhd </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "N[hj;G+h",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">N[hj;G+h </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "cja;G+h",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">cja;G+h </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -310,32 +310,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>mz;ikapy;> jpUeq;iffSf;F ,ytr NgUe;J gazj;ij mwptpj;j efuk; vJ?</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >mz;ikapy;> jpUeq;iffSf;F ,ytr NgUe;J gazj;ij mwptpj;j efuk; vJ? </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "Kk;ig",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">Kk;ig </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "nfhy;fj;jh",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">nfhy;fj;jh </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": ",e;J}h",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">,e;J}h </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "nly;yp",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">nly;yp </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -348,32 +348,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>jkpo;ehL Mjpjpuhtplh; tPl;Ltrjp kw;Wk; Nkk;ghl;Lf; fofk; (jhl;Nfh) njhlq;fg;gl;l Mz;L?</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >jkpo;ehL Mjpjpuhtplh; tPl;Ltrjp kw;Wk; Nkk;ghl;Lf; fofk; (jhl;Nfh) njhlq;fg;gl;l Mz;L? </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "1971",
+          "choiceField": "<p><span>1971 </span></p>",
           "language": "ENGLISH"
         }
       ],
       [
         {
-          "choiceField": "1973",
+          "choiceField": "<p><span>1973 </span></p>",
           "language": "ENGLISH"
         }
       ],
       [
         {
-          "choiceField": "1974",
+          "choiceField": "<p><span>1974 </span></p>",
           "language": "ENGLISH"
         }
       ],
       [
         {
-          "choiceField": "1976",
+          "choiceField": "<p><span>1976  <p><span></span><span></span></p></span></p>",
           "language": "ENGLISH"
         }
       ]
@@ -386,32 +386,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>gpd;tUk; $w;Wfspy; vJ cz;ik? </br> 1. jkpo;nkhopapy; rpwe;j E}y;fs; ntsptUtij Cf;fg;gLj;Jk; tifapy; 33 tifg;ghLfspy; rpwe;j gilg;G mspj;j E}yhrphpah;fSf;Fk; gjpg;ghsh;fSf;Fk; Mz;LNjhWk; ghpR toq;fg;gLfpwJ. </br> 2. 1972 Kjy; jkpo; tsh;r;rpj;Jiwahy; toq;fg;gl;L tUfpwJ.   </p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >gpd;tUk; $w;Wfspy; vJ cz;ik? </span></br><span style=\"font-family: TamilFont; font-weight: bold\" >1. jkpo;nkhopapy; rpwe;j E}y;fs; ntsptUtij Cf;fg;gLj;Jk; tifapy; 33 tifg;ghLfspy; rpwe;j gilg;G mspj;j E}yhrphpah;fSf;Fk; gjpg;ghsh;fSf;Fk; Mz;LNjhWk; ghpR toq;fg;gLfpwJ. </span></br<span>2. 1972 </span><span style=\"font-family: TamilFont; font-weight: bold\" >Kjy; jkpo; tsh;r;rpj;Jiwahy; toq;fg;gl;L tUfpwJ.</span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "1 kl;Lk; rhp",
+          "choiceField": " <p><span>1 </span><span style=\"font-family: TamilFont; font-weight: bold\">kl;Lk; rhp</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "2 kl;Lk; rh",
+          "choiceField": "<p><span>2 </span><span style=\"font-family: TamilFont; font-weight: bold\">kl;Lk; rh </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "1> 2 rhp",
+          "choiceField": "<p><span>1> 2 </span><span style=\"font-family: TamilFont; font-weight: bold\">rhp </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "1> 2 jtW",
+          "choiceField": " <p><span>1> 2 </span><span style=\"font-family: TamilFont; font-weight: bold\">jtW</span></p>",
           "language": "TAMIL"
         }
       ]
@@ -424,32 +424,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>‘cyf Adhdp ehs;” mDrhpf;fg;gLfpw Njjp vJ?</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >‘cyf Adhdp ehs;” mDrhpf;fg;gLfpw Njjp vJ? </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "gpg;uthp -9",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">gpg;uthp </span><span>-9</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "gpg;uthp -10",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">gpg;uthp </span><span>-10</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "gpg;uthp 12",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">gpg;uthp </span><span>12</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "gpg;uthp 11",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">gpg;uthp </span><span>11</span></p>",
           "language": "TAMIL"
         }
       ]
@@ -462,32 +462,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>. 2024 - ICC U19 cyff;Nfhg;igia ntd;w ehL vJ?</p>",
+        "questionField": "<p><span>2024 - ICC U19 </span><span style=\"font-family: TamilFont; font-weight: bold\" >cyff;Nfhg;igia ntd;w ehL vJ? </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "M];jpNuypah",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">M];jpNuypah </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": ",q;fpyhe;J",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">,q;fpyhe;J </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": ",e;jpah",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">,e;jpah </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "njd;dhg;gphpf;fh",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">njd;dhg;gphpf;fh </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -500,32 +500,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>‘Jy;ypa mZFKiw Nulhh;” (Precision Approach Rader - PAR) vd;w Gjpa ghJfhg;G mikg;G vq;F mwpKfg;gLj;jg;gl;lJ</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >‘Jy;ypa mZFKiw Nulhh;” </span><span>(Precision Approach Rader - PAR) </span><span style=\"font-family: TamilFont; font-weight: bold\" >vd;w Gjpa ghJfhg;G mikg;G vq;F mwpKfg;gLj;jg;gl;lJ </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": ",yl;rj;jPTfs",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">,yl;rj;jPTfs </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "me;jkhd; & epf;Nfhgh; jPTfs",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">me;jkhd; & epf;Nfhgh; jPTfs </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "Nfush",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">Nfush </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "GJnly;yp",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">GJnly;yp </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -538,32 +538,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>epzePh; ahidf;fhy; Neha; gw;wpa $w;Wfspy; vJ cz;ik? </br> 1. kj;jpa Rfhjhuk; (k) FLk;g eyj;Jiwahy; epzePh; ahidf;fhy; Nehia xopg;gjw;F ‘kf;fs; gq;Nfw;Gld; $ba kUe;J eph;thf ,af;fj;jpd; Kjy; fl;lk; njhlf;fk;. </br> 2. 2028f;Fs; Nehia xopf;f 5 mk;r cj;jpia kj;jpa Rfhjhu mikr;rk; njhlf;fk; </br> 3. ghjpf;fg;gl;l gFjpapy; trpg;gth;fSf;F ,ytr jLg;G kUe;J tOq;Ftjd; %yk; Neha; guTtijj; jLg;gJ.</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >epzePh; ahidf;fhy; Neha; gw;wpa $w;Wfspy; vJ cz;ik? </span></br><span style=\"font-family: TamilFont; font-weight: bold\" >1. kj;jpa Rfhjhuk; (k) FLk;g eyj;Jiwahy; epzePh; ahidf;fhy; Nehia xopg;gjw;F ‘kf;fs; gq;Nfw;Gld; $ba kUe;J eph;thf ,af;fj;jpd; Kjy; fl;lk; njhlf;fk;. </span></br><span> 2. 2028 </span><span style=\"font-family: TamilFont; font-weight: bold\" >f;Fs; Nehia xopf;f 5 mk;r cj;jpia kj;jpa Rfhjhu mikr;rk; njhlf;fk; </span></br><span style=\"font-family: TamilFont; font-weight: bold\" >3. ghjpf;fg;gl;l gFjpapy; trpg;gth;fSf;F ,ytr jLg;G kUe;J tOq;Ftjd; %yk; Neha; guTtijj; jLg;gJ. </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "1 kl;Lk; rh",
+          "choiceField": "<p><span>1 </span><span style=\"font-family: TamilFont; font-weight: bold\">kl;Lk; rh</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "1> 2 rhp",
+          "choiceField": "<p><span>1> 2 </span><span style=\"font-family: TamilFont; font-weight: bold\">rhp</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "1> 3 rh",
+          "choiceField": "<p><span>1> 3 </span><span style=\"font-family: TamilFont; font-weight: bold\">rh</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "1> 2> 3 rhp",
+          "choiceField": "<p><span>1> 2> 3 </span><span style=\"font-family: TamilFont; font-weight: bold\"> rhp</span></p>",
           "language": "TAMIL"
         }
       ]
@@ -576,32 +576,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>TNPSC elj;jpa chpikapay; ePjpgjp gjtpf;fhd Njh;tpy; Njh;r;rp ngw;w Kjy; goq;Fbapdg; ngz; ve;j khtl;lj;ijr; rhh;e;jth</p>",
+        "questionField": "<p><span>TNPSC </span><span style=\"font-family: TamilFont; font-weight: bold\" >elj;jpa chpikapay; ePjpgjp gjtpf;fhd Njh;tpy; Njh;r;rp ngw;w Kjy; goq;Fbapdg; ngz; ve;j khtl;lj;ijr; rhh;e;jth </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "fd;dpahFkhp",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">fd;dpahFkhp </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "nrd;id",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">nrd;id </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "tpUJefh",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">tpUJefh </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "jpUtz;zhkiy",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">jpUtz;zhkiy </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -614,32 +614,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>gpujkhpd; #hpa tPL ,ytr kpd;rhu jpl;lk; gw;wpa $w;Wfspy; vJ cz;ik? </br> 1. xU Nfhb FLk;gq;fSf;F khje;NjhWk; 300 myF ,ytr kpd;rhuk </br> 2. 70000 Nfhb KjyPl;by; nray;gLj;jg;gLk </br> 3. ,j;jpl;lk; %yk; Mz;Lf;F &.15000 - &.18000 tiu FLk;gj;jpduhy; Nrkpf;f KbAk;. </p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >gpujkhpd; #hpa tPL ,ytr kpd;rhu jpl;lk; gw;wpa $w;Wfspy; vJ cz;ik? </span></br><span style=\"font-family: TamilFont; font-weight: bold\" >1. xU Nfhb FLk;gq;fSf;F khje;NjhWk; 300 myF ,ytr kpd;rhuk </span></br><span>2.70000 </span><span style=\"font-family: TamilFont; font-weight: bold\" >Nfhb KjyPl;by; nray;gLj;jg;gLk </span></br><span style=\"font-family: TamilFont; font-weight: bold\" >3. ,j;jpl;lk; %yk; Mz;Lf;F </span><span style=\"font-family: TamilFont; font-weight: bold\" >&.15000 - &.18000 tiu FLk;gj;jpduhy; Nrkpf;f KbAk;. </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "1> 2 rh",
+          "choiceField": "<p><span>1> 2 </span><span style=\"font-family: TamilFont; font-weight: bold\">rh</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "1> 3 rhp",
+          "choiceField": "<p><span>1> 3 </span><span style=\"font-family: TamilFont; font-weight: bold\">rhp</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "1> 2> 3 rhp",
+          "choiceField": "<p><span>1> 2> 3 </span><span style=\"font-family: TamilFont; font-weight: bold\">rhp</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "1 kl;Lk; rh",
+          "choiceField": "<p><span>1 </span><span style=\"font-family: TamilFont; font-weight: bold\">kl;Lk; rh</span></p>",
           "language": "TAMIL"
         }
       ]
@@ -652,32 +652,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>$w;W (A) : Mz;LNjhWk; gpg;uthp 13 Njrpa ngz;fs; jpdk; nfhz;lhlg;gLfpwJ. </br>fhuzk; (R) : ngz;fspd; chpikfSf;fhf Fuy; nfhLj;jjw;fhf Kj;Jyl;Rkp nul;bapd; gpwe;jehs; Njrpa ngz;fs; ehshff; nfhz;lhlg;gLfpwJ</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >$w;W (A) : Mz;LNjhWk; gpg;uthp 13 Njrpa ngz;fs; jpdk; nfhz;lhlg;gLfpwJ. </span></br><span style=\"font-family: TamilFont; font-weight: bold\" >fhuzk; (R) : ngz;fspd; chpikfSf;fhf Fuy; nfhLj;jjw;fhf Kj;Jyl;Rkp nul;bapd; gpwe;jehs; Njrpa ngz;fs; ehshff; nfhz;lhlg;gLfpwJ </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "$w;W A rhp> fhuzk; R jtW",
+          "choiceField": "<p><spanstyle=\"font-family: TamilFont; font-weight: bold\">$w;W </span><span>A </span><spanstyle=\"font-family: TamilFont; font-weight: bold\">rhp> fhuzk; </span><span>R</span><spanstyle=\"font-family: TamilFont; font-weight: bold\">jtW </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "$w;W A jtW> fhuzk; R rhp",
+          "choiceField": "<p><spanstyle=\"font-family: TamilFont; font-weight: bold\">$w;W </span><span>A </span><spanstyle=\"font-family: TamilFont; font-weight: bold\">jtW> fhuzk; </span><span>R </span><spanstyle=\"font-family: TamilFont; font-weight: bold\">rhp </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "$w;W A kw;Wk; fhuzk; R rhp kw;Wk; fhuzk; R $w;W A tpd; rhpahd tpsf;fk; ",
+          "choiceField": "<p><spanstyle=\"font-family: TamilFont; font-weight: bold\">$w;W </span><span>A </span><spanstyle=\"font-family: TamilFont; font-weight: bold\">kw;Wk; fhuzk; </span><span>R </span><spanstyle=\"font-family: TamilFont; font-weight: bold\">rhp kw;Wk; </span><spanstyle=\"font-family: TamilFont; font-weight: bold\">fhuzk; </span><span>R </span><spanstyle=\"font-family: TamilFont; font-weight: bold\">$w;W </span><span>A </span><spanstyle=\"font-family: TamilFont; font-weight: bold\">tpd; rhpahd tpsf;fk; </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "$w;W A kw;Wk; fhuzk; R rhp kw;Wk; fhuzk; R $w;W A tpd; rhpahd tpsf;fky;y",
+          "choiceField": "<p><spanstyle=\"font-family: TamilFont; font-weight: bold\">$w;W </span><span>A </span><spanstyle=\"font-family: TamilFont; font-weight: bold\">kw;Wk; fhuzk; </span><span>R </span><spanstyle=\"font-family: TamilFont; font-weight: bold\">rhp kw;Wk; fhuzk; </span><span>R </span><spanstyle=\"font-family: TamilFont; font-weight: bold\">$w;W </span><span>A </span><spanstyle=\"font-family: TamilFont; font-weight: bold\">tpd; rhpahd tpsf;fky;y </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -690,32 +690,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>mz;ikapy;> gPfhh; khepy ghg;&h; fpuhkg; gQ;rhaj;jpy; ‘];khh; fpuhkg; gQ;rhaj;J” vd;w Nrhjid mbg;gilapyhd jpl;lk; njhlq;fpa mikr;rfk; vJ?</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >mz;ikapy;> gPfhh; khepy ghg;&h; fpuhkg; gQ;rhaj;jpy; ‘];khh; fpuhkg; gQ;rhaj;J” vd;w Nrhjid mbg;gilapyhd jpl;lk; njhlq;fpa mikr;rfk; vJ?</span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "jpwd; Nkk;ghl;L kw;Wk; njhopy; KidNthh; mikr;rfk;",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">jpwd; Nkk;ghl;L kw;Wk; njhopy; KidNthh; mikr;rfk; </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "th;j;jf kw;Wk; njhopy;Jiw mikr;rfk",
+          "choiceField": " <p><span style=\"font-family: TamilFont; font-weight: bold\">th;j;jf kw;Wk; njhopy;Jiw mikr;rfk </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "epjp mikr;rfk",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">epjp mikr;rfk</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "Cuf tsh;r;rp kw;Wk; gQ;rhaj;J uh[; mikr;rfk",
+          "choiceField": " <p><span style=\"font-family: TamilFont; font-weight: bold\">Cuf tsh;r;rp kw;Wk; gQ;rhaj;J uh[; mikr;rfk </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -728,32 +728,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>gd;dh;fl;lh Njrpa G+q;fh mike;Js;s khepyk; vJ?</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">gd;dh;fl;lh Njrpa G+q;fh mike;Js;s khepyk; vJ?</span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "cj;jpufhz;l",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">cj;jpufhz;l</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "kj;jpag;gpuNjrk",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">kj;jpag;gpuNjrk</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "fh;ehlfh",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">fh;ehlfh</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "Nfush",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">Nfush</span></p>",
           "language": "TAMIL"
         }
       ]
@@ -766,32 +766,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>ghuj uj;dh gw;wpa $w;Wfspy; vJ cz;ik? </br> 1. elg;G 2024-y; ItUf;F ‘,e;jpa khkzp” tpUJ toq;fg;gl;lJ. </br> 3. 1955-y; Kjd;Kiwahf ghuj uj;dh toq;fg;gl;lJ.</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >ghuj uj;dh gw;wpa $w;Wfspy; vJ cz;ik? </span></br><span style=\"font-family: TamilFont; font-weight: bold\">1. elg;G </span><span style=\"font-family: TamilFont; font-weight: bold\" >2024-y; ItUf;F ‘,e;jpa khkzp” tpUJ toq;fg;gl;lJ. </span></br><span>3. 1955 </span><span style=\"font-family: TamilFont; font-weight: bold\" >-y; </span><span style=\"font-family: TamilFont; font-weight: bold\">Kjd;Kiwahf ghuj uj;dh toq;fg;gl;lJ. </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "1 kl;Lk; rhp",
+          "choiceField": "  <p><span>1 </span><span style=\"font-family: TamilFont; font-weight: bold\">kl;Lk; rhp</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "1> 2 kl;Lk; rhp",
+          "choiceField": "<p><span>1> 2 </span><span style=\"font-family: TamilFont; font-weight: bold\">kl;Lk; rhp</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "1> 2> 3 rh",
+          "choiceField": "<p><span>1> 2> 3 </span><span style=\"font-family: TamilFont; font-weight: bold\">rh</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "1> 3 kl;Lk; rhp",
+          "choiceField": "<p><span>1> 3 </span><span style=\"font-family: TamilFont; font-weight: bold\">kl;Lk; rhp</span></p>",
           "language": "TAMIL"
         }
       ]
@@ -804,32 +804,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>mz;ikapy; njhlq;fg;gl;l ‘rhujp” ,izajsj;Jld; njhlh;Gila $w;W vJ?</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >mz;ikapy; njhlq;fg;gl;l ‘rhujp” ,izajsj;Jld; njhlh;Gila $w;W vJ? </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "Gjpa tptrha njhopy;El;gq;fs; gw;wpa jfty;fis tptrhapfSf;F toq;Fjy",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">Gjpa tptrha njhopy;El;gq;fs; gw;wpa jfty;fis tptrhapfSf;F toq;Fjy </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "tptrhag; gaph;fis Vw;Wkjp nra;Ak; trj",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">tptrhag; gaph;fis Vw;Wkjp nra;Ak; trj </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "epyg;gjpT njhlh;ghd",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">epyg;gjpT njhlh;ghd </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "gaph;fhg;gPL njhlh;ghd Fiwfisj; jPh;T toq;Fk; cjtp vz",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">gaph;fhg;gPL njhlh;ghd Fiwfisj; jPh;T toq;Fk; cjtp vz </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -842,32 +842,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>gpd;tUtdtw;Ws; nghUe;jhjJ </br> 1. ngz;fs; ghJfhg;G - 181  </br> 2. Nghplh; fhy cjtp - 1077  </br> 3. irgh; Fw;wq;fs; jLg;G - 14417  </br> 4. Foe;ijfs; ghJfhg;G - 1098 </p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">gpd;tUtdtw;Ws; nghUe;jhjJ </span></br><span style=\"font-family: TamilFont; font-weight: bold\" >1. ngz;fs; ghJfhg;G </span><span>- 181  </span></br><span style=\"font-family: TamilFont; font-weight: bold\">2. Nghplh; fhy cjtp </span><span>- 1077 </span> </br><span style=\"font-family: TamilFont; font-weight: bold\" >3. irgh; Fw;wq;fs; jLg;G </span><span>- 14417 </span></br><span style=\"font-family: TamilFont; font-weight: bold\">4. Foe;ijfs; ghJfhg;G </span><span>- 1098 </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "1 kl;Lk",
+          "choiceField": "<p><span>1 </span><span style=\"font-family: TamilFont; font-weight: bold\">kl;Lk</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "1> 2 kl;Lk",
+          "choiceField": "<p><span>1> 2 </span><span style=\"font-family: TamilFont; font-weight: bold\">kl;Lk</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "2> 3 kl;Lk",
+          "choiceField": "<p><span>2> 3 </span><span style=\"font-family: TamilFont; font-weight: bold\">kl;Lk</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "2> 3 kl;Lk",
+          "choiceField": "<p><span>2> 3 </span><span style=\"font-family: TamilFont; font-weight: bold\">kl;Lk</span></p>",
           "language": "TAMIL"
         }
       ]
@@ -880,32 +880,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>7tJ ,e;jpag; ngUq;fly; khehL vq;F eilngw;wJ?</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">7tJ ,e;jpag; ngUq;fly; khehL vq;F eilngw;wJ? </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": ",e;jpah",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">,e;jpah </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": ",e;Njhdppah",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">,e;Njhdppah </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": ",yq;if",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">,yq;if </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "M];jpNuypah",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">M];jpNuypah </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -918,32 +918,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>23tJ cyf ePbj;j tsh;r;rp cr;rp khehL vq;F njhlq;fg;gl;lJ?</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">23tJ cyf ePbj;j tsh;r;rp cr;rp khehL vq;F njhlq;fg;gl;lJ? </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "Nfush",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">Nfush </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "GJnly;y",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">GJnly;y </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "mfkjhghj",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">mfkjhghj </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "Kk;ig",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">Kk;ig </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -956,32 +956,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>cyf ePbj;j tsh;r;rp cr;rp khehL gw;wpa $w;Wfspy; vJ cz;ikay;y? </br> 1. Mz;LNjhWk; Mw;wy; kw;Wk; ts epWtdk; elj;JfpwJ </br> 2. 2024 Mz;Lf;fhd fUg;nghUs;: ‘Leadership for the Sustainable Development and Climate Justice’</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">cyf ePbj;j tsh;r;rp cr;rp khehL gw;wpa $w;Wfspy; vJ cz;ikay;y? </span></br><span style=\"font-family: TamilFont; font-weight: bold\">1. Mz;LNjhWk; Mw;wy; kw;Wk; ts epWtdk; elj;JfpwJ </span></br><span>2. 2024 </span><span style=\"font-family: TamilFont; font-weight: bold\" >Mz;Lf;fhd fUg;nghUs; </span>:<span>‘Leadership for the Sustainable Development and Climate Justice’ </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "1 kl;Lk",
+          "choiceField": "<p><span>1 </span><span style=\"font-family: TamilFont; font-weight: bold\">kl;Lk</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "2 kl;Lk",
+          "choiceField": "<p><span>2 </span><span style=\"font-family: TamilFont; font-weight: bold\">kl;Lk</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "1> 2",
+          "choiceField": "<p><span>1> 2 </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "vJTkpy;iy",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">vJTkpy;iy </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -994,32 +994,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>2024Mk; Mz;Lf;fhd ,e;jpa vhprf;jp thuk; vq;F ,e;jpa gpujkh; njhlq;fp itj;jhh</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">2024Mk; </span><span style=\"font-family: TamilFont; font-weight: bold\">Mz;Lf;fhd ,e;jpa vhprf;jp thuk; vq;F ,e;jpa gpujkh; njhlq;fp itj;jhh </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "cj;jpug;gpuNjrk",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">cj;jpug;gpuNjrk </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "kj;jpag;gpuNjrk",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">kj;jpag;gpuNjrk </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "F[uhj",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">F[uhj </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "Nfhth",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">Nfhth </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -1032,32 +1032,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p> fOF Fwpj;j fzf;nfLg;Gfspy; vJ cz;ik? </br> 1. Nfush kw;Wk; fh;ehlfh xUq;fpizg;Gld; jkpo;ehL tdj;Jiwapd; 2tJ xUq;fpize;j fzf;nfLg;gpd;gb ,g;gwitfspd; vz;zpf;if 246 MFk;. </br> 2. fOFfspd; vz;zpf;if Fiwtjw;F fhuzk; ‘nlf;Nsh/ngdh” vDk; fhy;eil kUj;Jtj;jpy; gad;gLk; kUe;jhFk;. </br> 3. ,we;j fhy;eilfis fOFfs; ,iuahf;fp nfhs;Sk; NghJ kUe;J fOFfspd; clypy; fye;J tpLfpwJ. </br> 4. ,e;jpahtpy; jkpo;ehl;by; nts;spepwg;gUe;Jfs;> rptg;Gj;jiy gUe;Jfs;> ePs%f;F fOFfs;> vfpg;jpa gUe;Jfs; vd 4 ,dq;fs; </p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">fOF Fwpj;j fzf;nfLg;Gfspy; vJ cz;ik? </span></br><span style=\"font-family: TamilFont; font-weight: bold\" >1. Nfush kw;Wk; fh;ehlfh xUq;fpizg;Gld; jkpo;ehL tdj;Jiwapd; 2tJ xUq;fpize;j fzf;nfLg;gpd;gb ,g;gwitfspd; vz;zpf;if </span><span>246 </span><span style=\"font-family: TamilFont; font-weight: bold\" >MFk;. </span></span></br><span style=\"font-family: TamilFont; font-weight: bold\">2. fOFfspd; vz;zpf;if Fiwtjw;F fhuzk; ‘nlf;Nsh/ngdh” vDk; fhy;eil kUj;Jtj;jpy; gad;gLk; kUe;jhFk;. </span></br><span style=\"font-family: TamilFont; font-weight: bold\">3. ,we;j fhy;eilfis fOFfs; ,iuahf;fp nfhs;Sk; NghJ kUe;J fOFfspd; clypy; fye;J tpLfpwJ. </span></br><span style=\"font-family: TamilFont; font-weight: bold\" > 4. ,e;jpahtpy; jkpo;ehl;by; nts;spepwg;gUe;Jfs;> rptg;Gj;jiy gUe;Jfs;> ePs%f;F fOFfs;> vfpg;jpa gUe;Jfs; vd 4 ,dq;fs; </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "1> 2 rhp",
+          "choiceField": "<p><span>1> 2 </span><span style=\"font-family: TamilFont; font-weight: bold\">rhp</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "2> 3 rhp ",
+          "choiceField": "<p><span>2> 3 </span><span style=\"font-family: TamilFont; font-weight: bold\">rhp</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "1> 2> 3 rh",
+          "choiceField": "<p><span>1> 2> 3 </span><span style=\"font-family: TamilFont; font-weight: bold\">rh</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "midj;Jk; rh",
+          "choiceField": "<p><span>midj;Jk; </span><span style=\"font-family: TamilFont; font-weight: bold\">rh</span></p>",
           "language": "TAMIL"
         }
       ]
@@ -1070,32 +1070,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>mz;ikapy; Xa;Tngw;w gPg; gpNu]; vf;fhTld; njhlh;GilaJ vJ?</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">mz;ikapy; Xa;Tngw;w gPg; gpNu]; vf;fhTld; njhlh;GilaJ vJ? </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "fhy;ge;J",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">fhy;ge;J </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "tpy;tpj;ij",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">tpy;tpj;ij </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "Nlgpy; nld;dp]",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">Nlgpy; nld;dp] </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "`hf;fp",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">`hf;fp </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -1108,32 +1108,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>,ytr> fl;lhaf; fy;tp chpik rl;lk; (RTE) 2009d;gb nghUshjhu hPjpahf eyptile;j gphpit Nrh;e;jth;fspd; Foe;ijfs; jdpahh; gs;spfspy; ____ rjtPjk; ,l xJf;fPL mspf;fg;gl Ntz;Lk;.</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >,ytr> fl;lhaf; fy;tp chpik rl;lk; </span><span>(RTE) </span><span style=\"font-family: TamilFont; font-weight: bold\" >2009d;gb nghUshjhu hPjpahf eyptile;j gphpit Nrh;e;jth;fspd; Foe;ijfs; jdpahh; gs;spfspy; ____ rjtPjk; ,l xJf;fPL mspf;fg;gl Ntz;Lk;. </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "30%",
+          "choiceField": "<p><span>30% </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "33%",
+          "choiceField": "<p><span>33% </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "25%",
+          "choiceField": "<p><span>25% </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "50%",
+          "choiceField": "<p><span>50% </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -1146,32 +1146,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>fle;j 10 Mz;Lfspy; ______ Nfhb Ngh; tWikapypUe;J kj;jpa muR kPl;fg;gl;Ls;sJ vd NITI MNahf; njhptpj;Js;sJ.</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >fle;j 10 Mz;Lfspy; ______ Nfhb Ngh; tWikapypUe;J kj;jpa muR kPl;fg;gl;Ls;sJ vd  </span><span>NITI </span><span style=\"font-family: TamilFont; font-weight: bold\">MNahf; njhptpj;Js;sJ. </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "20 Nfhb",
+          "choiceField": "<p><span>20 </span><span style=\"font-family: TamilFont; font-weight: bold\">Nfhb</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "25 Nfhb",
+          "choiceField": "<p><span>25 </span><span style=\"font-family: TamilFont; font-weight: bold\">Nfhb</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "23 Nfhb",
+          "choiceField": "<p><span>23 </span><span style=\"font-family: TamilFont; font-weight: bold\">Nfhb</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "29 Nfhb",
+          "choiceField": "<p><span>29 </span><span style=\"font-family: TamilFont; font-weight: bold\">Nfhb</span></p>",
           "language": "TAMIL"
         }
       ]
@@ -1184,32 +1184,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>cyfpd; nkhj;j vz;k ghpth;j;jidfspy; ______% ,e;jpahtpy; eilngWfpwJ.</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >cyfpd; nkhj;j vz;k ghpth;j;jidfspy; ______% ,e;jpahtpy; eilngWfpwJ.</span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "40%",
+          "choiceField": "<p><span>40% </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "45%",
+          "choiceField": "<p><span>45% </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "46%",
+          "choiceField": "<p><span>46% </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "47%",
+          "choiceField": "<p><span>47% </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -1222,32 +1222,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p> elg;G Mz;by; ,e;jpag; nghUshjhuj;ij ______ % Mf tsh;r;rp milAk; vd WTO fzpg;G</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">elg;G Mz;by; ,e;jpag; nghUshjhuj;ij ______ % Mf tsh;r;rp milAk; vd </span><span style=\"font-family: TamilFont; font-weight: bold\" >WTO </span><span style=\"font-family: TamilFont; font-weight: bold\">fzpg;G </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "8%",
+          "choiceField": "<p><span>8% </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "8.1%",
+          "choiceField": "<p><span>8.1% </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "8.5%",
+          "choiceField": "<p><span>8.5% </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "8.3%",
+          "choiceField": "<p><span>8.3% </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -1260,32 +1260,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>Nfush khepyj;jpd; ve;j khtl;lk; rh;tNjr ,yf;fpa tpohit elj;jTs;sJ</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >Nfush khepyj;jpd; ve;j khtl;lk; rh;tNjr ,yf;fpa tpohit elj;jTs;sJ </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "jpUtde;jGuk",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">jpUtde;jGuk </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "nfhr;r",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">nfhr;r </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "jpUr;#h",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">jpUr;#h </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "nfhy;yk",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">nfhy;yk </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -1298,32 +1298,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>Fwpg;ghf ghjpf;fg;glf;$ba goq;Fbapdh; FOthf tifg;gLj;jg;gl;l ‘Fbah Nfhz;L goq;Fbapdh; tfpf;Fk; khepyk;?</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >Fwpg;ghf ghjpf;fg;glf;$ba goq;Fbapdh; FOthf tifg;gLj;jg;gl;l ‘Fbah Nfhz;L goq;Fbapdh; tfpf;Fk; khepyk;? </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "mrhk",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">mrhk </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "jphpGuh",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">jphpGuh </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "[hh;f;fz;l",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">[hh;f;fz;l </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "xbrh",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">xbrh </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -1336,32 +1336,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>Nrhkhypahtpd; fpof;Ff; flw;fiuapy; flj;jg;gl;l kPdth;fis kPl;l ruA tif Nuhe;J fg;gy; vJ?</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >Nrhkhypahtpd; fpof;Ff; flw;fiuapy; flj;jg;gl;l kPdth;fis kPl;l ruA tif Nuhe;J fg;gy; vJ? </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "INS Rth;zh",
+          "choiceField": "<p><span>INS </span><span style=\"font-family: TamilFont; font-weight: bold\">Rth;zh</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "INS ep&gf",
+          "choiceField": "<p><span>INS </span><span style=\"font-family: TamilFont; font-weight: bold\">ep&gf</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "INS fg;uh",
+          "choiceField": "<p><span>INS </span><span style=\"font-family: TamilFont; font-weight: bold\">fg;uh</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "INS Rkpj;uh",
+          "choiceField": "<p><span>INS </span><span style=\"font-family: TamilFont; font-weight: bold\">Rkpj;uh</span></p>",
           "language": "TAMIL"
         }
       ]
@@ -1374,32 +1374,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>,e;jpa flw;gilapy; 38 Mz;Lfs; gzpahw;wp Xa;T ngw;w fg;gy; vJ?</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">,e;jpa flw;gilapy; 38 Mz;Lfs; gzpahw;wp Xa;T ngw;w fg;gy; vJ?</span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "INS Mjpj;ah",
+          "choiceField": "<p><span>INS </span><span style=\"font-family: TamilFont; font-weight: bold\">Mjpj;ah</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "INS ep&gf",
+          "choiceField": "<p><span>INS </span><span style=\"font-family: TamilFont; font-weight: bold\">ep&gf</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "INS fg;uh",
+          "choiceField": "<p><span>INS </span><span style=\"font-family: TamilFont; font-weight: bold\">fg;uh</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "INS re;jhaf",
+          "choiceField": "<p><span>INS </span><span style=\"font-family: TamilFont; font-weight: bold\">re;jhaf</span></p>",
           "language": "TAMIL"
         }
       ]
@@ -1412,32 +1412,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>‘INS re;jhaf;” vd;gJ vd;d tifahd fg;gy;?</p>",
+        "questionField": "<p><span>‘INS </span><span style=\"font-family: TamilFont; font-weight: bold\" >re;jhaf;” vd;gJ vd;d tifahd fg;gy;? </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "Nuhe;J fg;gy",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">Nuhe;J fg;gy</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "tpkhd jhq;fp fg;gy",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">tpkhd jhq;fp fg;gy</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "Ma;Tf; fg;gy",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">Ma;Tf; fg;gy</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "jhf;fpaopg;ghd",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">jhf;fpaopg;ghd</span></p>",
           "language": "TAMIL"
         }
       ]
@@ -1450,32 +1450,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>2024-25 ,ilf;fhy gl;n[l;by; Mj;keph;ghh; vd;nza; tpj;Jf;fs; mgpahd;”f;fhf fUj;jpy; nfhs;sg;gLk; gaph;fs; vit?</p>",
+        "questionField": "<p><span>2024-25 </span><span style=\"font-family: TamilFont; font-weight: bold\" >,ilf;fhy gl;n[l;by; Mj;keph;ghh; vd;nza; tpj;Jf;fs; mgpahd;”f;fhf fUj;jpy; nfhs;sg;gLk; gaph;fs; vit? </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "Nth;f;fliy kw;Wk; gid",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">Nth;f;fliy kw;Wk; gid </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "ehl;Lf;fLF kw;Wk; gid",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">ehl;Lf;fLF kw;Wk; gid </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "gid> Njq;fha;> fNdhyh kw;Wk; #hpafhe;jp",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">gid> Njq;fha;> fNdhyh kw;Wk; #hpafhe;jp </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "fLF> epyf;fliy> vs;> NrhagPd; kw;Wk; #hpafhe;j",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">fLF> epyf;fliy> vs;> NrhagPd; kw;Wk; #hpafhe;j </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -1488,32 +1488,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>‘rk; mq;fd;thb kw;Wk; Nghd; 2.0 jpl;lk; gw;wpa cz;ik vJ? </br> 1. Cuf tsh;r;rp mikr;rfk; nray;gLj;JfpwJ. </br> 2. Nghd; ,af;fk; 2.0 d; xU gFjpahFk;. </br> 3. epjp mikr;ruhy; 2021 gpg;uthpapy; njhlf;fk; </br> 4. 2023-24y; gl;n[l; xJf;fPL 25449 NfhbahFk;.</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >‘rk; mq;fd;thb kw;Wk; Nghd; 2.0 jpl;lk; gw;wpa cz;ik vJ? </span></br><span style=\"font-family: TamilFont; font-weight: bold\" > 1. Cuf tsh;r;rp mikr;rfk; nray;gLj;JfpwJ. </span></br><span style=\"font-family: TamilFont; font-weight: bold\" >2. Nghd; ,af;fk; 2.0 d; xU gFjpahFk;. </span></br><span style=\"font-family: TamilFont; font-weight: bold\" >3. epjp mikr;ruhy; </span><span>2021 </span><span style=\"font-family: TamilFont; font-weight: bold\" >gpg;uthpapy; njhlf;fk;  </span></br><span style=\"font-family: TamilFont; font-weight: bold\" >4. 2023-24y; gl;n[l; xJf;fPL 25449 NfhbahFk;.</span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "1> 2 rhp",
+          "choiceField": "<p><span>1> 2 </span><span style=\"font-family: TamilFont; font-weight: bold\">rhp</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "1> 2> 3 rh",
+          "choiceField": "<p><span>1> 2> 3 </span><span style=\"font-family: TamilFont; font-weight: bold\">rh</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "1> 2> 4 rh",
+          "choiceField": "<p><span>1> 2> 4 </span><span style=\"font-family: TamilFont; font-weight: bold\">rh</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "2> 3> 4 rh",
+          "choiceField": "<p><span>2> 3> 4 </span><span style=\"font-family: TamilFont; font-weight: bold\">rh</span></p>",
           "language": "TAMIL"
         }
       ]
@@ -1526,32 +1526,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>je;ij nghpahh; td tpyq;F ruzhyak; mike;Js;s khtl;lk</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >je;ij nghpahh; td tpyq;F ruzhyak; mike;Js;s khtl;lk </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "Nfhit",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">Nfhit </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "Nryk",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">Nryk </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "<NuhL",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\"><NuhL </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "jpUg;G+h",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">jpUg;G+h </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -1564,32 +1564,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p> 2024-25 ,ilf;fhy gl;n[l;by; ,lk;ngw;w> ePyg;nghUsjhu vd;w nrhy;yhliyg; gpd;tUtdtw;Ws; vJ rpwg;ghf tpthpf;fpwJ.</p>",
+        "questionField": "<p><span>2024-25 </span><span style=\"font-family: TamilFont; font-weight: bold\" >,ilf;fhy gl;n[l;by; ,lk;ngw;w> ePyg;nghUsjhu vd;w nrhy;yhliyg; gpd;tUtdtw;Ws; vJ rpwg;ghf tpthpf;fpwJ. </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "ngUq;fly;fs;> fly;fs; kw;Wk; flw;fiufs; njhlh;ghd epiyahd tsh;r;rp",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">ngUq;fly;fs;> fly;fs; kw;Wk; flw;fiufs; njhlh;ghd epiyahd tsh;r;rp </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "fpuhkg;Gw cs;fl;likg;ig Nkk;gLj;Jjy",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">fpuhkg;Gw cs;fl;likg;ig Nkk;gLj;Jjy </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "GJg;gpf;fj;jf;f Mw;wy; %yq;fs;",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">GJg;gpf;fj;jf;f Mw;wy; %yq;fs; </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "nghUsjhu tshr;rpiag; Nkk;gLj;Jjy",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">nghUsjhu tshr;rpiag; Nkk;gLj;Jjy </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -1602,32 +1602,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>2024 cyf Gw;WNeha; ehSf;fhd fUg;nghUs; vd;d?</p>",
+        "questionField": "<p><span>2024 </span><span style=\"font-family: TamilFont; font-weight: bold\">cyf Gw;WNeha; ehSf;fhd fUg;nghUs; vd;d? </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "Together let’s do something",
+          "choiceField": "<p><span>Together let’s do something </span></p>",
           "language": "ENGLISH"
         }
       ],
       [
         {
-          "choiceField": "We can I can",
+          "choiceField": "<p><span>We can I can </span></p>",
           "language": "ENGLISH"
         }
       ],
       [
         {
-          "choiceField": "Close the Care Gap",
+          "choiceField": "<p><span>Close the Care Gap </span></p>",
           "language": "ENGLISH"
         }
       ],
       [
         {
-          "choiceField": "I am and I will ",
+          "choiceField": "<p><span>I am and I will </span></p>",
           "language": "ENGLISH"
         }
       ]
@@ -1640,32 +1640,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>NfhJik vhpge;j Neha; (Wheat Blast diseases) vjdhy; Vw;gLfpwJ</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">NfhJik vhpge;j Neha; </span><span>(Wheat Blast diseases) </span><span style=\"font-family: TamilFont; font-weight: bold\">vjdhy; Vw;gLfpwJ</span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "ghf;Bhpah",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">ghf;Bhpah </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "itu]",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">itu] </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "G+Q;ir",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">G+Q;ir </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "GOf;fs",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">GOf;fs </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -1678,32 +1678,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>,e;jpahtpy; ,e;jpah Njrpa nfhLg;gzTf; fofj;jhy; cUthf;fg;gl;l UPI cUthf;fg;gl;l Mz;L</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >,e;jpahtpy; ,e;jpah Njrpa nfhLg;gzTf; fofj;jhy; cUthf;fg;gl;l UPI cUthf;fg;gl;l Mz;L </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "2015",
+          "choiceField": "<p><span>2015 </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "2016",
+          "choiceField": "<p><span>2016 </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "2017",
+          "choiceField": "<p><span>2017 </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "2014",
+          "choiceField": "<p><span>2014 </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -1716,32 +1716,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>GHAR (Go Home and Re-Unite) ,izajsj;jpd; Nehf;fk; gw;wp $w;Wfspy; vJ cz;ik? </br> 1. Njrpa Foe;ijfs; chpikfs; ghJfhg;G Mizaj;jhy; cUthf;fk;. </br> 2. topjtwpa Foe;ijfis kPl;L> mth;fs; tPl;by; Nrh;g;gij b[pl;ly; Kiwapy; fz;fhzpj;jy;.</p>",
+        "questionField": "<p><span>GHAR (Go Home and Re-Unite) </span><span style=\"font-family: TamilFont; font-weight: bold\" >,izajsj;jpd; Nehf;fk; gw;wp $w;Wfspy; vJ cz;ik? </span></br><span style=\"font-family: TamilFont; font-weight: bold\" >1. Njrpa Foe;ijfs; chpikfs; ghJfhg;G Mizaj;jhy; cUthf;fk;. </span></br><span style=\"font-family: TamilFont; font-weight: bold\" >2. topjtwpa Foe;ijfis kPl;L> mth;fs; tPl;by; Nrh;g;gij b[pl;ly; Kiwapy; fz;fhzpj;jy;. </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "1 kl;Lk;",
+          "choiceField": "<p><span>1 </span><span style=\"font-family: TamilFont; font-weight: bold\">kl;Lk;</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "2 kl;Lk",
+          "choiceField": "<p><span>2 </span><span style=\"font-family: TamilFont; font-weight: bold\"> kl;Lk</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "1>2 rh",
+          "choiceField": "<p><span>1>2 </span><span style=\"font-family: TamilFont; font-weight: bold\">rh</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": ",uz;Lk; rhpay;y",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">,uz;Lk; rhpay;y </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -1754,32 +1754,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>cyf Gw;WNeha; jpdk;?</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >cyf Gw;WNeha; jpdk;?</span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "gpg;uthp 2",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">gpg;uthp </span><span>2</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "gpg;uthp 3",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">gpg;uthp </span><span>3</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "gpg;uthp 4",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">gpg;uthp </span><span>4</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "gpg;uthp 6",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">gpg;uthp </span><span>6</span></p>",
           "language": "TAMIL"
         }
       ]
@@ -1792,32 +1792,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>mz;ikapy; ,e;jpa murpd; ePh;tpayhsh; nghWg;ig Vw;wth;?</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >mz;ikapy; ,e;jpa murpd; ePh;tpayhsh; nghWg;ig Vw;wth;?</span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "Rdpy; yk;gh",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">Rdpy; yk;gh </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "Nyhr;rd; rpq; gjhdpah",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">Nyhr;rd; rpq; gjhdpah </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "Mjph; mNuhuh",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">Mjph; mNuhuh </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "jpNd;Fkhh; jphpghjp",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">jpNd;Fkhh; jphpghjp </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -1830,32 +1830,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>nrgh`p[hyh tdtpyq;F ruzhyak; mike;Js;s khepyk;?</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >nrgh`p[hyh tdtpyq;F ruzhyak; mike;Js;s khepyk;? </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "mrhk",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">mrhk </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "ehfyhe;J",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">ehfyhe;J </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "jphpGuh",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">jphpGuh </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "kpNrhuk",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">kpNrhuk </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -1868,32 +1868,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>. cs;ehl;by; tbtikf;fg;gl;l ehl;bd; Kjy; 155 y;khh;l; ntbkUe;Jfis cUthf;f kpA+dpd;]; ,e;jp epWtdj;Jld; $l;L Nrh;e;Js;s epWtdk;?</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >cs;ehl;by; tbtikf;fg;gl;l ehl;bd; Kjy; 155 y;khh;l; ntbkUe;Jfis cUthf;f kpA+dpd;]; ,e;jp epWtdj;Jld; $l;L Nrh;e;Js;s epWtdk;? </span</p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "IIT yf;Ndh",
+          "choiceField": "  <p><span>IIT </span><span style=\"font-family: TamilFont; font-weight: bold\">yf;Ndh</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "IIT Kk;ig",
+          "choiceField": "<p><span>IIT </span><span style=\"font-family: TamilFont; font-weight: bold\">Kk;ig</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "IIT nrd;id",
+          "choiceField": "<p><span>IIT </span><span style=\"font-family: TamilFont; font-weight: bold\">nrd;id</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "IIT fhd;G+h",
+          "choiceField": "<p><span>IIT </span><span style=\"font-family: TamilFont; font-weight: bold\">fhd;G+h</span></p>",
           "language": "TAMIL"
         }
       ]
@@ -1906,32 +1906,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p> GJ nly;ypapy; 2024-y; eilngw;w cyf Gj;jf fz;fhl;rp njhlh;ghd $w;Wfspy; vJ rhpahdJ? </br> 1. fUg;nghUs; Multilingual India A Living Tradition </br> 2. ,e;j epfo;tpy; nfsut tpUe;jpdh;: If;fpa muG mkpufk;</p>",
+        "questionField": "<p> <span style=\"font-family: TamilFont; font-weight: bold\" >GJ nly;ypapy; 2024-y; eilngw;w cyf Gj;jf fz;fhl;rp njhlh;ghd $w;Wfspy; vJ rhpahdJ? </span></br><span style=\"font-family: TamilFont; font-weight: bold\" >1. fUg;nghUs; </span><span>Multilingual India A Living Tradition </span></br><span style=\"font-family: TamilFont; font-weight: bold\" >2. ,e;j epfo;tpy; nfsut tpUe;jpdh;: If;fpa muG mkpufk; </span</p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "1 kl;Lk",
+          "choiceField": "<p><span>1 </span><span style=\"font-family: TamilFont; font-weight: bold\">kl;Lk </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "2 kl;Lk",
+          "choiceField": "<p><span>2 </span><span style=\"font-family: TamilFont; font-weight: bold\">kl;Lk </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "1>2 rhp",
+          "choiceField": "<p><span>1>2 </span><span style=\"font-family: TamilFont; font-weight: bold\">rhp</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": ",uz;Lk; rhpay;y",
+          "choiceField": " <p><span style=\"font-family: TamilFont; font-weight: bold\">,uz;Lk; rhpay;y </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -1944,32 +1944,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>mrhkpd; gpuk;kGj;jpuh ejp jpl;lj;jpw;F &.200 kpy;ypad; lhyh; fld; toq;f xg;Gjy; mspj;j tq;fp vJ?</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >mrhkpd; gpuk;kGj;jpuh ejp jpl;lj;jpw;F &.200 kpy;ypad; lhyh; fld; toq;f xg;Gjy; mspj;j tq;fp vJ? </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "cyf tq;fp",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">cyf tq;fp </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "yz;ld; tq;f",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">yz;ld; tq;f </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "Mrpa tsh;r;rp tq;f",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">Mrpa tsh;r;rp tq;f </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "u;a tq;fp",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">u;a tq;fp </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -1982,32 +1982,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>WHO My; 2024Mk; Mz;bd; ney;rd; kz;Nlyh tpUJ toq;fp nfsutpf;fg;gl;l epWtdk;?</p>",
+        "questionField": "<p><span>WHO </span><span style=\"font-family: TamilFont; font-weight: bold\" >My; 2024Mk; Mz;bd; ney;rd; kz;Nlyh tpUJ toq;fp nfsutpf;fg;gl;l epWtdk;? </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "kdeyk; kw;Wk; euk;G mwptpaYf;fhd Njrpa epWtdk; ",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">kdeyk; kw;Wk; euk;G mwptpaYf;fhd Njrpa epWtdk; </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "AIMS kJiu",
+          "choiceField": "<p><span>AIMS </span><span style=\"font-family: TamilFont; font-weight: bold\">kJiu</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "Njrpa rpj;j epWtdk;",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">Njrpa rpj;j epWtdk; </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "Njrpa Mah;Ntj epWtdk",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">Njrpa Mah;Ntj epWtdk </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -2020,32 +2020,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>jkpo;ehl;bd; nghUshjhuk; _____ % Mf cah;e;Js;sJ</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >jkpo;ehl;bd; nghUshjhuk; _____ % Mf cah;e;Js;sJ</span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "8.13",
+          "choiceField": " <p><span>8.13 </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "8.12",
+          "choiceField": " <p><span>8.12 </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "8.15",
+          "choiceField": " <p><span>8.15 </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "8.19",
+          "choiceField": " <p><span>8.19 </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -2058,32 +2058,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>2022-23-y; ehl;bd; gztPf;fj;Jld; xg;gpLk;NghJ jkpo;ehl;bd; gztPf;fk;?</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >2022-23-y; </span><span style=\"font-family: TamilFont; font-weight: bold\" >ehl;bd; gztPf;fj;Jld; xg;gpLk;NghJ jkpo;ehl;bd; gztPf;fk;?</span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "5.96 %",
+          "choiceField": "<p><span>5.96 % </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "5.97 %",
+          "choiceField": "<p><span>5.97 % </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "6.3 %",
+          "choiceField": "<p><span>6.3 % </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "5.98 %",
+          "choiceField": "<p><span>5.98 % </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -2096,32 +2096,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>elg;ghz;by; fiyQhpd; midj;J fpuhk xUq;fpide;j Ntshz; tsh;r;rpj; jpl;lg; gzpfs; ______ Nfhbapy; 2504 fpuhk Cuhl;rpfspy; nray;gLfpwJ </p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >elg;ghz;by; fiyQhpd; midj;J fpuhk xUq;fpide;j Ntshz; tsh;r;rpj; jpl;lg; gzpfs; ______ Nfhbapy; 2504 fpuhk Cuhl;rpfspy; nray;gLfpwJ</span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "180 Nfhb",
+          "choiceField": "<p><span>180 </span><span style=\"font-family: TamilFont; font-weight: bold\">Nfhb</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "190 Nfhb",
+          "choiceField": "<p><span>190 </span><span style=\"font-family: TamilFont; font-weight: bold\">Nfhb</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "200 Nfhb",
+          "choiceField": "<p><span>200 </span><span style=\"font-family: TamilFont; font-weight: bold\">Nfhb</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "220 Nfhb",
+          "choiceField": "<p><span>220 </span><span style=\"font-family: TamilFont; font-weight: bold\">Nfhb</span></p>",
           "language": "TAMIL"
         }
       ]
@@ -2134,32 +2134,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>‘Fire Capped Tit’ rhh;e;j ,dk</p>",
+        "questionField": "<p><span>‘Fire Capped Tit’ </span><span style=\"font-family: TamilFont; font-weight: bold\" >rhh;e;j ,dk </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "rpye;j",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">rpye;j </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "tz;zj;Jg;G+r;rp",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">tz;zj;Jg;G+r;rp </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "kPd",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">kPd </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "gwit",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">gwit </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -2172,32 +2172,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>‘FIT ,e;jpah ,af;fj;jpd; Gjpa tpsk;guj;J}jh;?</p>",
+        "questionField": "<p>‘<span>FIT </span><span style=\"font-family: TamilFont; font-weight: bold\" >,e;jpah ,af;fj;jpd; Gjpa tpsk;guj;J}jh;?</span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "N[hfpe;jh; Fkhh",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">N[hfpe;jh; Fkhh </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "eNue;jpu Fkhh; ahjt",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">eNue;jpu Fkhh; ahjt </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "mutpe;j; ahjt",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">mutpe;j; ahjt </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "#h;a Fkhh; ahjt",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">#h;a Fkhh; ahjt </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -2210,32 +2210,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>Njrpa jla mwptpay; gy;fiyf; fofk; mike;Js;s ,lk</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >Njrpa jla mwptpay; gy;fiyf; fofk; mike;Js;s ,lk </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "Nghghy",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">Nghghy </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "yf;Ndh",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">yf;Ndh </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "GJnly;y",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">GJnly;y </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "fhe;jp efh",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">fhe;jp efh </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -2248,32 +2248,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>gpd;tUk; $w;Wfspy; vit rhpahdit? </br> A. ehd; Kjy;td; jpl;lk; %yk; fle;j Mz;L 1.19 yl;rk; khzth;fs; gyd;. </br> B. kf;fisj; Njb kUj;Jtk; jpl;lk; %yk; 1.07 Nfhb Ngh; gyd;. </br> C. %tY}h; ,uhkkph;jk; mk;ikahh; epidT GJikg; ngz; jpl;lj;jpd; %yk; fy;Y}hpfspy; NrUk; khztpfspd; vz;zpf;if 34% mjpfhpg;G </br> D. cah;fy;tp gapYk; khzth;fSf;F GJikg; ngz; jpl;lk; %yk; khje;NjhUk; &.1200 toq;fg;gLfpwJ.</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >gpd;tUk; $w;Wfspy; vit rhpahdit? </span></br><span>A. </span><span style=\"font-family: TamilFont; font-weight: bold\" >ehd; Kjy;td; jpl;lk; %yk; fle;j Mz;L 1.19 yl;rk; khzth;fs; gyd;. </span></br><span>B. </span><span style=\"font-family: TamilFont; font-weight: bold\" >kf;fisj; Njb kUj;Jtk; jpl;lk; %yk; 1.07 Nfhb Ngh; gyd;. </span></br><span>C. </span><span style=\"font-family: TamilFont; font-weight: bold\" >%tY}h; ,uhkkph;jk; mk;ikahh; epidT GJikg; ngz; jpl;lj;jpd; %yk; fy;Y}hpfspy; NrUk; khztpfspd; vz;zpf;if 34% mjpfhpg;G  </span></br><span>D. </span><span style=\"font-family: TamilFont; font-weight: bold\" >cah;fy;tp gapYk; khzth;fSf;F GJikg; ngz; jpl;lk; %yk; khje;NjhUk; &.1200 toq;fg;gLfpwJ. </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "1>2 rhp",
+          "choiceField": "<p><span>1>2 </span><span style=\"font-family: TamilFont; font-weight: bold\">rhp</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "1>2>3 rhp",
+          "choiceField": "<p><span>1>2>3 </span><span style=\"font-family: TamilFont; font-weight: bold\">rhp</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "1> 3 rhp",
+          "choiceField": "<p><span>1> 3 </span><span style=\"font-family: TamilFont; font-weight: bold\">rhp</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "midj;Jk; rhp",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">midj;Jk; </span><span style=\"font-family: TamilFont; font-weight: bold\">rhp</span></p>",
           "language": "TAMIL"
         }
       ]
@@ -2286,32 +2286,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>‘EK Samandar Mere Andar’vd;w E}iy vOjpath; ahh;?</p>",
+        "questionField": "<p><span>‘EK Samandar Mere Andar </span><span style=\"font-family: TamilFont; font-weight: bold\" >’vd;w E}iy vOjpath; ahh;?</span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "tpf;uk; Nrj",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">tpf;uk; Nrj </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "mh;[Pd; rpq",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">mh;[Pd; rpq </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "rQ;rPt; N[hp",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">rQ;rPt; N[hp </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "Rdpy; Fkhh",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">Rdpy; Fkhh </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -2324,32 +2324,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>‘Njrpa ghJfhg;G MNyhrfh</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >‘Njrpa ghJfhg;G MNyhrfh </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "mutpe;j; gd fhhpah",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">mutpe;j; gd fhhpah </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "mutpe;j; mbfh",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">mutpe;j; mbfh </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "tpdPj; gh[;gha",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">tpdPj; gh[;gha </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "m[pj; Njhty",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">m[pj; Njhty </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -2362,32 +2362,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>GJr;Nrhpapd; Gjpa jiyikr; nrayhsuhf epakpf;fg;gl;lth</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >GJr;Nrhpapd; Gjpa jiyikr; nrayhsuhf epakpf;fg;gl;lth </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "mdpy; nrsfhd;",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">mdpy; nrsfhd; </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "ruj; nrsfhd",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">ruj; nrsfhd </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": ",uh[pt; th;kh",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">,uh[pt; th;kh </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": ",uh[pt; Fkhh",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">,uh[pt; Fkhh </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -2400,32 +2400,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>ehl;bd; Vw;Wkjp _____ lhyuhf mjpfhpj;Js;sJ.</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >ehl;bd; Vw;Wkjp _____ lhyuhf mjpfhpj;Js;sJ. </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "770 gpy;ypad",
+          "choiceField": "<p><span>770 </span><span style=\"font-family: TamilFont; font-weight: bold\">gpy;ypad;</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "775 gpy;ypad; ",
+          "choiceField": "<p><span>775 </span><span style=\"font-family: TamilFont; font-weight: bold\">gpy;ypad;</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "776 gpy;ypad; ",
+          "choiceField": "<p><span>776 </span><span style=\"font-family: TamilFont; font-weight: bold\">gpy;ypad;</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "780 gpy;ypad;",
+          "choiceField": "<p><span>780 </span><span style=\"font-family: TamilFont; font-weight: bold\">gpy;ypad;</span></p>",
           "language": "TAMIL"
         }
       ]
@@ -2438,32 +2438,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>Nuhl;by; Gdy; kpd;Dw;gj;jp jpl;lk; ve;j Mw;wpd; kPJ fl;lg;gl;Ls;sJ.</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >Nuhl;by; Gdy; kpd;Dw;gj;jp jpl;lk; ve;j Mw;wpd; kPJ fl;lg;gl;Ls;sJ. </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "uhtp",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">uhtp </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "[Pyk;",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">[Pyk; </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "nrdhg",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">nrdhg </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "rl;y[",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">rl;y[ </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -2476,32 +2476,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>Coy; kpFe;j ehLfspd; gl;baypy; 2023Mk; Mz;L ,e;jpahtpd; ,lk</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >Coy; kpFe;j ehLfspd; gl;baypy; 2023Mk; Mz;L ,e;jpahtpd; ,lk </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "91",
+          "choiceField": "<p><span>91 </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "92",
+          "choiceField": "<p><span>92 </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "93",
+          "choiceField": "<p><span>93 </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "89",
+          "choiceField": "<p><span>89 </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -2514,32 +2514,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>fiyQh; ];Nghh;l;]; fpl; jpl;lk; gw;wpa $w;Wfspy; vJ cz;ik </br> 1. TNy; midj;J Cuhl;rpfSf;Fk; tpisahl;L cgfuzq;fs; mspf;Fk; jpl;lkhFk; </br> 2. tpisahl;Lj;Jiw mikr;rfk; jpUr;rpapy; gpg;uthp 7-y; njhlq;fpaJ</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">fiyQh; ];Nghh;l;]; fpl; jpl;lk; gw;wpa $w;Wfspy; vJ cz;ik </span></br><span style=\"font-family: TamilFont; font-weight: bold\" >1. TNy; midj;J Cuhl;rpfSf;Fk; tpisahl;L cgfuzq;fs; mspf;Fk; jpl;lkhFk; </span></br><span style=\"font-family: TamilFont; font-weight: bold\" >2. tpisahl;Lj;Jiw mikr;rfk; jpUr;rpapy; gpg;uthp 7-y; njhlq;fpaJ </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "1 kl;Lk",
+          "choiceField": "<p><span>1 </span><span style=\"font-family: TamilFont; font-weight: bold\">kl;Lk</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "2 kl;Lk",
+          "choiceField": "<p><span>2 </span><span style=\"font-family: TamilFont; font-weight: bold\">kl;Lk</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "1>2 kl;Lk",
+          "choiceField": "<p><span>1>2 </span><span style=\"font-family: TamilFont; font-weight: bold\">kl;Lk</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": ",uz;Lk; rhpay;y",
+          "choiceField": " <p><span style=\"font-family: TamilFont; font-weight: bold\">,uz;Lk; rhpay;y </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -2552,32 +2552,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>. cj;jpufhz;l; khepyj;jpd; Kjy; ngz; jiyikr; nrayhsuhf epakpf;fg;gl;lth;?</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >cj;jpufhz;l; khepyj;jpd; Kjy; ngz; jiyikr; nrayhsuhf epakpf;fg;gl;lth;? </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "fPjh fz;zh",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">fPjh fz;zh </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "utp fz;zh",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">utp fz;zh </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": ",uhjh uJhp",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">,uhjh uJhp </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": ",uhjh Fg;jh",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">,uhjh Fg;jh </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -2590,32 +2590,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>,e;jpahtpy; ve;j khepy/Uty; mjpf gdpr;rpWj;ijfs; fhzg;gLfpwJ.</p>",
+        "questionField": "<p>,<span style=\"font-family: TamilFont; font-weight: bold\" >e;jpahtpy; ve;j khepy/Uty; mjpf gdpr;rpWj;ijfs; fhzg;gLfpwJ. </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "[k;K fh;kPh;",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">[k;K fh;kPh; </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "ylhf;",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">ylhf; </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": ",khr;ry; gpuNjrk",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">,khr;ry; gpuNjrk </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "cj;jpufhz;l",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">cj;jpufhz;l </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -2628,32 +2628,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>,e;jpahtpy; mjpf uhk;rhh; jsq;fs; nfhz;l khepyk;</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">,e;jpahtpy; mjpf uhk;rhh; jsq;fs; nfhz;l khepyk; </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "fh;ehlfh",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">fh;ehlfh </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "kfhuh;buh",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">kfhuh;buh </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "Me;jpu gpuNjrk",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">Me;jpu gpuNjrk </span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "jkpo; ehL",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">jkpo; ehL </span></p>",
           "language": "TAMIL"
         }
       ]
@@ -2666,32 +2666,32 @@
     "type": "SINGLE",
     "questionTranslations": [
       {
-        "questionField": "<p>gpd;tUk; $w;Wfspy; vJ cz;ik: </br> 1. fhiuntl;b gwit ruzhyak; - mhpaY}h; </br> 2. yhq;Tg; Nrhiy fhg;Gf;fhL - jpUney;Ntyp </br> 3. TNy; 100 rJg;G epyq;fisg; ghJfhf;f &.115.15 Nfhb nrytpy; jkpo;ehL rJg;G epyq;fs; ,af;fk; vd;w jpl;lk; nray;gLj;jp tUfpwJ.</p>",
+        "questionField": "<p><span style=\"font-family: TamilFont; font-weight: bold\" >gpd;tUk; $w;Wfspy; vJ cz;ik: </span></br><span style=\"font-family: TamilFont; font-weight: bold\" >1. fhiuntl;b gwit ruzhyak; - mhpaY}h; </span> </br><span style=\"font-family: TamilFont; font-weight: bold\" >2. yhq;Tg; Nrhiy fhg;Gf;fhL - jpUney;Ntyp </span></br><span style=\"font-family: TamilFont; font-weight: bold\" >3. TNy; 100 rJg;G epyq;fisg; ghJfhf;f &.115.15 Nfhb nrytpy; jkpo;ehL rJg;G epyq;fs; ,af;fk; vd;w jpl;lk; nray;gLj;jp tUfpwJ. </span></p>",
         "language": "TAMIL"
       }
     ],
     "choiceTranslationList": [
       [
         {
-          "choiceField": "1 kl;Lk;",
+          "choiceField": "<p><span>1 </span><span style=\"font-family: TamilFont; font-weight: bold\">kl;Lk;</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "1>2 kl;Lk",
+          "choiceField": "<p><span> 1>2</span><span style=\"font-family: TamilFont; font-weight: bold\">kl;Lk</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "1>3 kl;Lk",
+          "choiceField": "<p><span>1>3 </span><span style=\"font-family: TamilFont; font-weight: bold\">kl;Lk</span></p>",
           "language": "TAMIL"
         }
       ],
       [
         {
-          "choiceField": "midj;Jk; rh",
+          "choiceField": "<p><span style=\"font-family: TamilFont; font-weight: bold\">midj;Jk; rh </span></p>",
           "language": "TAMIL"
         }
       ]
