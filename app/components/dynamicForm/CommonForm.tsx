@@ -5,6 +5,7 @@ const formTypes = {
   INPUT: "input",
   SELECT: "select",
   TEXTAREA: "textarea",
+  BUTTON: "button",
 };
 
 const CommonForm = ({
@@ -27,6 +28,7 @@ const CommonForm = ({
             id={getCurrentElement.id}
             type={getCurrentElement.type}
             value={formData[getCurrentElement.name]}
+            buttonText={getCurrentElement.buttonText}
             onChange={(event: any) =>
               setFormData({
                 ...formData,
@@ -44,17 +46,19 @@ const CommonForm = ({
   }
 
   return (
-    <form onSubmit={onHandleSubmit}>
-      {formControls?.length
-        ? formControls.map((singleFormElement: any, index: any) => {
-            return (
-              <React.Fragment key={index}>
-                {renderFormElement(singleFormElement)}
-              </React.Fragment>
-            );
-          })
-        : null}
-      <button type="submit">{buttonText || "Submit"}</button>{" "}
+    <form
+      onSubmit={onHandleSubmit}
+      className=" flex justify-center items-center  shadow-lg bg-white">
+      <div className=" max-h-[400px] p-5 flex flex-col gap-3">
+        {formControls?.length
+          ? formControls.map((singleFormElement: any, index: any) => {
+              return (
+                <div key={index}>{renderFormElement(singleFormElement)}</div>
+              );
+            })
+          : null}
+        <button type="submit">{buttonText || "Submit"}</button>
+      </div>
     </form>
   );
 };

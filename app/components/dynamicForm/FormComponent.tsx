@@ -8,18 +8,23 @@ const FormComponent = ({
   onChange,
   value,
   placeholder,
+  buttonText,
 }: any) => {
   return (
-    <div>
-      <label htmlFor={id}>{label}</label>
-      <input
-        name={name}
-        type={type || "text"}
-        id={id}
-        placeholder={placeholder || "Enter a value"}
-        value={value}
-        onChange={onChange}
-      />
+    <div className="flex justify-center items-center">
+      <div className="flex gap-3">
+        <label htmlFor={id}>{label}</label>
+        <input
+          name={name}
+          type={type || "text"}
+          id={id}
+          placeholder={placeholder || "Enter a value"}
+          value={value}
+          onChange={onChange}
+          className=" border border-black"
+        />
+        <button>{buttonText || ""}</button>
+      </div>
     </div>
   );
 };

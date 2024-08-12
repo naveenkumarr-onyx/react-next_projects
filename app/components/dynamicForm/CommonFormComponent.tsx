@@ -3,7 +3,7 @@ import { useState } from "react";
 import CommonForm from "./CommonForm";
 import { loginFormElements } from "./loginFormElements";
 
-function LoginComponent() {
+function CommonFormComponent() {
   const [loginFormData, setLoginFormData] = useState({
     email: "",
     password: "",
@@ -28,4 +28,4 @@ function LoginComponent() {
   );
 }
 
-export default LoginComponent;
+export default CommonFormComponent;
