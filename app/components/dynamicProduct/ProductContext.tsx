@@ -60,7 +60,7 @@ export const ProductProvider = ({ children }: any) => {
         totalPrice: Items.price,
       });
     } else {
-      console.log("product already but quantity only  increasing");
+      console.log("product already but quantity only increasing");
       exstingItems[findIndexOfCurrentItem] = {
         ...exstingItems[findIndexOfCurrentItem],
         quantity: exstingItems[findIndexOfCurrentItem].quantity + 1,
