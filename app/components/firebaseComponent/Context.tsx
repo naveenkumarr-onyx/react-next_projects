@@ -27,13 +27,7 @@ const AuthState = ({ children }: any) => {
 
   const createUserDataInFirebase = async () => {
     const { email, password } = registerFormData;
-    return createUserWithEmailAndPassword(auth, email, password)
-      .then(() => {
-        router.push("/profile");
-      })
-      .catch((error) => {
-        console.error("Registration Error: ", error);
-      });
+    return createUserWithEmailAndPassword(auth, email, password);
   };
 
   const loginUserDataInFirebase = async () => {
@@ -54,9 +48,11 @@ const AuthState = ({ children }: any) => {
 
   useEffect(() => {
     const checkAuthState = onAuthStateChanged(auth, (currentUser: any) => {
+      console.log(currentUser, "currentUser");
       setUsers(currentUser);
       setLoading(false);
     });
+
     return () => {
       checkAuthState();
     };

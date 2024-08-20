@@ -3,7 +3,6 @@ import { AuthContext } from "./Context";
 
 const Profile = () => {
   const { users, loading, logOut }: any = useContext(AuthContext);
-  console.log(users);
 
   return (
     <div className="w-full max-w-sm mx-auto rounded-lg shadow-sm">
@@ -14,8 +13,8 @@ const Profile = () => {
           <>
             {users ? (
               <>
-                <p>Welcome, {users.email}!</p>
                 <p>{users.displayName}</p>
+                <p>Welcome,Back {users.email}!</p>
                 <button onClick={logOut}>Logout</button>
               </>
             ) : (

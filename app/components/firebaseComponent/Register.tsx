@@ -5,29 +5,37 @@ import { RegisterFormElements } from "./RegisterFormElements";
 import { AuthContext } from "./Context";
 import { updateProfile } from "firebase/auth";
 import { useRouter } from "next/navigation";
+import auth from "../firebase/firebaseConfig";
 
 const Register = () => {
   const {
     registerFormData,
     setRegisterFormData,
     createUserDataInFirebase,
-    users,
+    setLoading,
   }: any = useContext(AuthContext);
   const router = useRouter();
 
-  const handleRegisterFormSubmit = (e: any) => {
+  const handleRegisterFormSubmit = async (e: any) => {
     e.preventDefault();
-    createUserDataInFirebase()
-      .then((result: any) => {
-        if (result.user) {
-          updateProfile(result.user, {
-            displayName: registerFormData.name,
-          });
-        }
-        console.log(result.user);
-      })
-      .catch((error: any) => console.log(error));
-    return setRegisterFormData({
+    setLoading(true);
+
+    try {
+      const result = await createUserDataInFirebase();
+      const user = result.user;
+      updateProfile(user, {
+        displayName: registerFormData.name,
+      });
+      auth.currentUser?.reload();
+      if (auth.currentUser?.displayName) {
+        setLoading(false);
+        router.push("/profile");
+      }
+    } catch (error: any) {
+      console.log(error);
+      setLoading(false);
+    }
+    setRegisterFormData({
       email: "",
       password: "",
       name: "",

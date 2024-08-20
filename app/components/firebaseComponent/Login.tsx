@@ -16,8 +16,10 @@ const Login = () => {
 
   const handleRegisterFormSubmit = (e: any) => {
     e.preventDefault();
-    loginUserDataInFirebase().then((result: any) => {
-      console.log(result);
+    loginUserDataInFirebase();
+    setloginFormData({
+      email: "",
+      password: "",
     });
   };
   if (users) return router.push("/profile");
