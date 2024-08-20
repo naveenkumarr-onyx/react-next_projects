@@ -11,6 +11,10 @@ function CommonFormComponent() {
 
   function onHandleSubmit(event: any) {
     event.preventDefault();
+    setLoginFormData({
+      email: "",
+      password: "",
+    });
     console.log(loginFormData);
   }
 

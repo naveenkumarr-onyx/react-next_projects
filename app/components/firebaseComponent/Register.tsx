@@ -4,13 +4,16 @@ import CommonForm from "../dynamicForm/CommonForm";
 import { RegisterFormElements } from "./RegisterFormElements";
 import { AuthContext } from "./Context";
 import { updateProfile } from "firebase/auth";
+import { useRouter } from "next/navigation";
 
 const Register = () => {
   const {
     registerFormData,
     setRegisterFormData,
     createUserDataInFirebase,
+    users,
   }: any = useContext(AuthContext);
+  const router = useRouter();
 
   const handleRegisterFormSubmit = (e: any) => {
     e.preventDefault();
@@ -21,8 +24,14 @@ const Register = () => {
             displayName: registerFormData.name,
           });
         }
+        console.log(result.user);
       })
       .catch((error: any) => console.log(error));
+    return setRegisterFormData({
+      email: "",
+      password: "",
+      name: "",
+    });
   };
 
   return (
