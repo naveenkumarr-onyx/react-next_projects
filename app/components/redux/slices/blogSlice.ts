@@ -1,4 +1,5 @@
 import { createSlice, nanoid } from "@reduxjs/toolkit";
+import { retry } from "@reduxjs/toolkit/query";
 
 const initialState: any = {
   blogFormData: {
@@ -26,9 +27,21 @@ export const blogSlice = createSlice({
         id: nanoid(),
         ...state.blogFormData,
       });
+      localStorage.setItem("bloglist", JSON.stringify(state.blogList));
+      state.blogFormData = {
+        title: "",
+        description: "",
+      };
+    },
+    setBlogListInLocalStorage: (state, action) => {
+      state.blogList = action.payload.blogList;
     },
   },
 });
 
-export const { handleInputChange, handleBlogSubmit } = blogSlice.actions;
+export const {
+  handleInputChange,
+  handleBlogSubmit,
+  setBlogListInLocalStorage,
+} = blogSlice.actions;
 export default blogSlice.reducer;
