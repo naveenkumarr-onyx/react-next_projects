@@ -34,12 +34,14 @@ const Register = () => {
     } catch (error: any) {
       console.log(error);
       setLoading(false);
+    } finally {
+      setRegisterFormData({
+        email: "",
+        password: "",
+        name: "",
+      });
+      setLoading(false);
     }
-    setRegisterFormData({
-      email: "",
-      password: "",
-      name: "",
-    });
   };
 
   return (

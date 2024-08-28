@@ -27,7 +27,11 @@ const AuthState = ({ children }: any) => {
 
   const createUserDataInFirebase = async () => {
     const { email, password } = registerFormData;
-    return createUserWithEmailAndPassword(auth, email, password);
+    if (registerFormData.name !== "" && registerFormData.password !== "") {
+      return createUserWithEmailAndPassword(auth, email, password);
+    }
+    alert("All fields required");
+    return;
   };
 
   const loginUserDataInFirebase = async () => {
