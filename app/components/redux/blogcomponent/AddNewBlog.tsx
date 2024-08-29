@@ -1,10 +1,16 @@
 import React from "react";
 import FormComponent from "../../dynamicForm/FormComponent";
 import { useDispatch, useSelector } from "react-redux";
-import { handleInputChange, handleBlogSubmit } from "../slices/blogSlice";
+import {
+  handleInputChange,
+  handleBlogSubmit,
+  handleUpdateBlog,
+  setCurrentEditedBlogId,
+} from "../slices/blogSlice";
 
 const AddNewBlog = () => {
   const { newblog } = useSelector((state: any) => state);
+  const { blogFormData, currentEditedBlogId } = newblog;
   const dispatch = useDispatch();
 
   const onChangeInput = (event: any) => {
@@ -17,7 +23,19 @@ const AddNewBlog = () => {
   };
   const handleSubmit = (event: any) => {
     event.preventDefault();
-    dispatch(handleBlogSubmit());
+    if (currentEditedBlogId !== null) dispatch(handleUpdateBlog());
+    else dispatch(handleBlogSubmit());
+
+    if (currentEditedBlogId !== null) {
+      dispatch(setCurrentEditedBlogId(null));
+    }
+
+    dispatch(
+      handleInputChange({
+        title: "",
+        description: "",
+      })
+    );
   };
   return (
     <div>
@@ -28,7 +46,7 @@ const AddNewBlog = () => {
           type="text"
           id="title"
           placeholder="Enter the blog title"
-          value={newblog.blogFormData.title}
+          value={blogFormData.title}
           onChange={onChangeInput}
         />
         <FormComponent
@@ -37,16 +55,15 @@ const AddNewBlog = () => {
           type="text"
           id="descrition"
           placeholder="Enter the blog descrition"
-          value={newblog.blogFormData.description}
+          value={blogFormData.description}
           onChange={onChangeInput}
         />
         <button
           type="submit"
           disabled={
-            (newblog.blogFormData.title && newblog.blogFormData.description)
-              .length === 0
+            (blogFormData.title && blogFormData.description).length === 0
           }>
-          Add new Blog
+          {currentEditedBlogId ? "Edit Blog" : "Add New Blog"}
         </button>
       </form>
     </div>

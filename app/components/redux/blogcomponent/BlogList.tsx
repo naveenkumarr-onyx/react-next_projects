@@ -1,10 +1,14 @@
 import React, { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { setBlogListInLocalStorage } from "../slices/blogSlice";
+import {
+  setBlogListInLocalStorage,
+  handleDeleteSingleBlog,
+  setCurrentEditedBlogId,
+  handleInputChange,
+} from "../slices/blogSlice";
 
 const BlogList = () => {
-  const { newblog }: any = useSelector((state: any) => state);
-  const { blogList }: any = newblog;
+  const blog = useSelector((state: any) => state.newblog);
   const dispatch = useDispatch();
 
   useEffect(() => {
@@ -17,11 +21,27 @@ const BlogList = () => {
     );
   }, [dispatch]);
 
+  const handleDelete = (singleBlogId: any) => {
+    window.confirm("are u sure to delete?")
+      ? dispatch(handleDeleteSingleBlog(singleBlogId))
+      : null;
+  };
+
+  const handleEdit = (singleBlogId: any) => {
+    dispatch(setCurrentEditedBlogId(singleBlogId.id));
+    dispatch(
+      handleInputChange({
+        title: singleBlogId.title,
+        description: singleBlogId.description,
+      })
+    );
+  };
+
   return (
     <div>
-      {blogList.length > 0 ? (
+      {blog.blogList.length > 0 ? (
         <>
-          {blogList.map((blog: any, index: any) => {
+          {blog.blogList.map((blog: any, index: any) => {
             return (
               <div
                 key={index}
@@ -30,6 +50,20 @@ const BlogList = () => {
                   <li>Blog {index + 1}</li>
                   <li>Title: {blog.title}</li>
                   <li>Description: {blog.description}</li>
+                  <div className="">
+                    <div className=" flex gap-3">
+                      <button
+                        className=" text-white bg-blue-600 rounded-md px-3 py-1"
+                        onClick={() => handleEdit(blog)}>
+                        Edit
+                      </button>
+                      <button
+                        className=" text-white bg-red-950 rounded-md px-3 py-1"
+                        onClick={() => handleDelete(blog.id)}>
+                        Delete
+                      </button>
+                    </div>
+                  </div>
                 </ul>
               </div>
             );
