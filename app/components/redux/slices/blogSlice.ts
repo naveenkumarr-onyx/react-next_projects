@@ -24,7 +24,7 @@ export const blogSlice = createSlice({
 
     handleBlogSubmit: (state) => {
       state.blogList.push({
-        id: nanoid(),
+        id: nanoid(2),
         ...state.blogFormData,
       });
       localStorage.setItem("bloglist", JSON.stringify(state.blogList));

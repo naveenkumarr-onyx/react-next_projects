@@ -21,6 +21,7 @@ const AddNewBlog = () => {
       })
     );
   };
+
   const handleSubmit = (event: any) => {
     event.preventDefault();
     if (currentEditedBlogId !== null) dispatch(handleUpdateBlog());
@@ -37,6 +38,7 @@ const AddNewBlog = () => {
       })
     );
   };
+
   return (
     <div>
       <form className=" flex flex-col gap-3" onSubmit={handleSubmit}>
