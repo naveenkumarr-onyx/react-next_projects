@@ -4,6 +4,7 @@ import AddNewBlog from "./components/redux/blogcomponent/AddNewBlog";
 import BlogList from "./components/redux/blogcomponent/BlogList";
 import { useEffect, useState } from "react";
 import { nanoid } from "@reduxjs/toolkit";
+import QuillEditor from "./components/quilljs/QuillEditor";
 
 export default function Home() {
   const [blogForm, setBlogForm]: any = useState({
@@ -129,8 +130,7 @@ export default function Home() {
         <p>No Data Available!</p>
       )}
 
-      {/* <AddNewBlog /> */}
-      {/* <BlogList /> */}
+      <QuillEditor />
     </main>
   );
 }
