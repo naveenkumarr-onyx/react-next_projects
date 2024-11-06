@@ -12,6 +12,7 @@
     "@naveenonyx/jsinstaller": "^1.0.2",
     "@reduxjs/toolkit": "^2.2.7",
     "@tanstack/react-query": "^5.51.16",
+    "axios": "^1.7.7",
     "express": "^4.19.2",
     "firebase": "^10.12.5",
     "next": "14.2.5",
