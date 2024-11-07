@@ -24,13 +24,15 @@ const Jwt = () => {
         "http://localhost:5000/user/signup",
         formData
       );
-      if (response.status === 200) {
-        console.log("User created successfully", response.data);
-      } else {
-        console.error("Error creating user", response.data);
+      if (response.status === 201) {
+        alert("User created successfully");
       }
     } catch (error: any) {
-      console.error("Error in API call", error.message);
+      if (error.response && error.response.status === 400) {
+        alert("User already exists");
+      } else {
+        console.error("Error in API call", error.message);
+      }
     }
   };
 
