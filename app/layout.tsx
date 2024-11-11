@@ -3,6 +3,8 @@ import "./globals.css";
 import StoreProvider from "./StoreProvider";
 import AuthState from "./components/firebaseComponent/Context";
 import { Metadata } from "next";
+import { ToastContainer } from "react-toastify";
+import "react-toastify/ReactToastify.min.css";
 
 const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
@@ -19,7 +21,10 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         <StoreProvider>
-          <AuthState>{children}</AuthState>
+          <AuthState>
+            {children}
+            <ToastContainer />
+          </AuthState>
         </StoreProvider>
       </body>
     </html>
